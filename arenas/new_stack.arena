@@ -1,0 +1,103 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Dumpster" position="8.56978 -2.41043 -43.9837" rotation="-163.458 89.9477 163.466" />
+    <Prop name="Dumpster" position="14.5243 -2.41079 -41.9677" rotation="151.339 -89.9344 151.355" />
+    <Prop name="Dumpster" position="11.5409 -2.41108 -43.9679" rotation="64.9755 89.9558 -64.9853" />
+    <Prop name="Dumpster" position="14.5119 -2.41213 -43.9706" rotation="88.6077 89.8953 -88.6077" />
+    <Prop name="Dumpster" position="11.5488 -2.41018 -41.9661" rotation="172.313 -89.9515 172.314" />
+    <Prop name="Plywood" position="14.5077 -2.17294 -39.7869" rotation="166.876 -89.9184 150.927" />
+    <Prop name="Plywood" position="11.4977 -2.16037 -39.8336" rotation="116.327 -89.883 100.347" />
+    <Prop name="Plywood" position="8.51903 -2.17023 -39.8165" rotation="4.91439 -89.9234 -11.0664" />
+    <Prop name="Garage Stand" position="13.0512 -0.0610603 -41.6095" rotation="-109.753 -89.8673 -125.663" />
+    <Prop name="Plywood" position="14.4749 -2.16094 -46.0972" rotation="-120.506 -89.9287 -104.504" />
+    <Prop name="Plywood" position="11.5166 -2.17786 -46.1518" rotation="-21.1244 -89.8573 -5.072" />
+    <Prop name="Plywood" position="8.5125 -2.16872 -46.1378" rotation="177.068 -89.9477 -166.856" />
+    <Prop name="Garage Stand" position="8.47876 0.108457 -42.8869" rotation="-83.7172 -89.7954 -85.2984" />
+    <Prop name="Garage Stand" position="11.4884 0.111224 -43.0247" rotation="141.361 -89.7106 142.336" />
+    <Prop name="Garage Stand" position="14.5096 0.112771 -42.9408" rotation="170.949 -89.559 170.562" />
+    <Prop name="Garage Stand" position="9.9719 -0.0719893 -41.5817" rotation="170.467 -89.4699 154.618" />
+    <Prop name="Garage Stand" position="14.0449 2.25647 -43.0092" rotation="0.463817 -0.276313 -0.0529534" />
+    <Prop name="Garage Stand" position="9.85359 -0.0457629 -44.286" rotation="-16.6029 -88.4052 -0.530749" />
+    <Prop name="Garage Stand" position="13.0945 -0.0469967 -44.2957" rotation="162.272 -88.8468 178.139" />
+    <Prop name="Plywood" position="11.8558 0.657694 -41.6509" rotation="7.36438 -0.211439 0.0764621" />
+    <Prop name="Plywood" position="11.7274 0.70215 -44.1798" rotation="-11.6922 0.375595 -0.00997532" />
+    <Prop name="Garage Stand" position="9.62068 2.25766 -43.0283" rotation="0.469842 0.0974746 0.102634" />
+    <Prop name="Plywood" position="11.8653 2.95609 -42.994" rotation="0.472828 0.301598 -0.0303137" />
+    <Prop name="Garage Stand" position="12.8588 3.29307 -42.7723" rotation="0.58743 -0.367816 106.403" />
+    <Prop name="Plywood" position="14.5009 -2.86266 -36.4043" rotation="174.511 -89.9315 161.524" />
+    <Prop name="Plywood" position="11.521 -2.86994 -36.3604" rotation="-2.44204 -89.9315 -15.2892" />
+    <Prop name="Plywood" position="8.56478 -2.85879 -36.4546" rotation="122.772 -89.9604 109.691" />
+    <Prop name="Plywood" position="8.56826 -2.81142 -49.184" rotation="171.771 -89.8797 -174.276" />
+    <Prop name="Plywood" position="11.4356 -2.81401 -49.1775" rotation="178.467 -89.9072 -167.65" />
+    <Prop name="Plywood" position="14.3255 -2.82289 -49.2409" rotation="14.1249 -89.9161 27.8625" />
+    <Prop name="Garage Stand" position="10.601 3.29232 -42.7863" rotation="0.585471 0.174601 -106.643" />
+    <Prop name="Plywood" position="10.3995 3.82602 -42.7722" rotation="-89.2162 -56.7353 -89.6503" />
+    <Prop name="Barrel" position="10.8316 4.20191 -42.0964" rotation="89.3978 74.5927 -179.109" />
+    <Prop name="Plywood" position="12.9336 3.78614 -42.9158" rotation="-89.1335 58.5626 -90.258" />
+    <Prop name="Barrel" position="11.6689 3.65773 -42.8473" rotation="90.2557 73.1586 -179.869" />
+    <Prop name="Barrel" position="11.6689 3.64779 -41.3495" rotation="90.9293 70.3633 179.531" />
+    <Prop name="Barrel" position="11.6665 3.66851 -44.3003" rotation="-89.7404 79.4834 0.114483" />
+    <Prop name="Barrel" position="12.538 4.19442 -43.6543" rotation="-90.6412 77.6197 0.915701" />
+    <Prop name="Barrel" position="12.5282 4.17917 -42.139" rotation="89.2137 74.1127 -178.481" />
+    <Prop name="Barrel" position="10.8308 4.21207 -43.6593" rotation="-95.5368 88.4521 6.04396" />
+    <Prop name="Cone" position="14.5301 3.28112 -42.8605" rotation="0.322207 0.0989341 -0.119192" />
+    <Prop name="Barrel" position="9.9962 4.75474 -42.8875" rotation="-85.8371 86.3477 -3.94096" />
+    <Prop name="Barrel" position="13.4372 4.7363 -42.8937" rotation="-95.0949 85.3057 5.21064" />
+    <Prop name="Barrel" position="11.6861 4.70403 -42.0598" rotation="87.9532 86.3788 -177.544" />
+    <Prop name="Barrel" position="11.6887 4.71049 -43.6975" rotation="83.5161 89.7753 -173.234" />
+    <Prop name="Barrel" position="10.8537 5.25526 -42.8937" rotation="-85.4253 88.0566 -4.3486" />
+    <Prop name="Barrel" position="12.558 5.19272 -42.753" rotation="-90.2674 83.0501 1.01556" />
+    <Prop name="Barrel" position="11.7253 5.7319 -42.8405" rotation="92.0043 82.0645 178.513" />
+    <Prop name="Cone" position="9.24354 3.28798 -43.0342" rotation="0.495487 -0.199839 -0.051081" />
+    <Prop name="Dumpster" position="8.57734 -2.41054 -41.9815" rotation="-13.589 -89.9407 -13.6019" />
+    <Prop name="Simple Jump 1" position="-11.2968 -2.91988 -42.9927" rotation="116.361 -89.9234 116.227" />
+    <Prop name="Simple Jump 1" position="35.6604 -2.91687 -42.7909" rotation="36.6703 89.8864 -36.81" />
+    <Prop name="Ring" position="2.37466 -2.75555 -42.9337" rotation="89.0631 -89.9657 89.0491" />
+    <Prop name="Ring" position="20.5448 -2.75447 -42.7684" rotation="-84.4997 89.9657 84.5207" />
+    <Prop name="Big Box" position="12.3347 -1.15009 -5.35862" rotation="122.009 89.944 -121.99" />
+    <Prop name="Big Box" position="12.3642 3.85755 -5.36058" rotation="109.218 89.9315 -109.199" />
+    <Prop name="Concrete Bump" position="12.9014 1.5292 6.08676" rotation="-179.884 -87.9706 -179.903" />
+    <Prop name="Big Box" position="12.5281 -1.14583 14.5905" rotation="138.673 89.9093 -138.673" />
+    <Prop name="Small Jump 1" position="12.5449 1.81667 13.5546" rotation="-55.0356 -89.8749 -54.9095" />
+    <Prop name="Concrete Bump" position="13.1805 2.29543 8.31693" rotation="-178.884 -89.1388 -179.598" />
+    <Prop name="Concrete Bump" position="13.1919 1.91363 8.30331" rotation="178.203 -89.017 178.146" />
+    <Prop name="Concrete Bump" position="13.2017 1.52957 8.28998" rotation="178.708 -88.5883 178.716" />
+    <Prop name="Concrete Bump" position="12.8848 2.66881 6.22802" rotation="178.503 -85.7541 176.913" />
+    <Prop name="Concrete Bump" position="12.8776 2.29179 6.15059" rotation="177.079 -87.1086 175.175" />
+    <Prop name="Concrete Bump" position="12.9062 1.91113 6.13237" rotation="178.49 -88.3387 176.912" />
+    <Prop name="Concrete Bump" position="12.5542 2.29582 10.7168" rotation="179.927 -86.4688 -179.69" />
+    <Prop name="Concrete Bump" position="12.5491 2.67786 10.7481" rotation="-179.583 -85.5678 -179.064" />
+    <Prop name="Concrete Bump" position="12.5573 1.53012 10.6864" rotation="-179.036 -87.176 -179.033" />
+    <Prop name="Concrete Bump" position="12.5609 1.91475 10.7291" rotation="-178.736 -87.5119 -178.621" />
+    <Prop name="Big Box" position="12.3686 -1.14597 4.61506" rotation="2.88018 89.8991 -2.89099" />
+    <Prop name="Concrete Bump" position="13.191 2.67747 8.34267" rotation="-179.198 -88.9221 -179.226" />
+    <Prop name="Small Jump 1" position="12.6939 3.34786 6.78628" rotation="-179.506 -89.0345 -179.182" />
+    <Prop name="Crate" position="13.8646 2.3085 3.49315" rotation="179.32 -89.1784 179.332" />
+    <Prop name="Crate" position="11.2893 2.3086 3.45274" rotation="-179.153 -89.4016 -179.142" />
+    <Prop name="Crate" position="12.491 2.30767 1.56713" rotation="179.984 -88.8727 -179.962" />
+    <Prop name="Plywood" position="13.8805 4.85036 2.08148" rotation="-170.174 -88.8494 156.937" />
+    <Prop name="Plywood" position="10.9161 4.8536 2.05285" rotation="-158.498 -89.3701 168.448" />
+    <Prop name="Concrete Bump" position="12.5501 3.44693 4.64965" rotation="-175.473 -89.0804 151.629" />
+    <Prop name="Concrete Bump" position="12.6108 3.76677 4.86304" rotation="-175.8 -89.0723 151.238" />
+    <Prop name="Concrete Bump" position="12.4247 3.79325 4.11516" rotation="-173.14 -89.0969 153.857" />
+    <Prop name="Plywood" position="12.5456 5.26996 2.39037" rotation="-175.809 -89.6556 158.621" />
+    <Prop name="Crate" position="13.7605 -2.69162 20.5236" rotation="0.0404622 0.0962011 0.00218026" />
+    <Prop name="Crate" position="11.4051 -2.69177 20.5253" rotation="0.00856903 -0.00836038 -0.0100129" />
+    <Prop name="Crate" position="11.404 -0.795285 20.5282" rotation="-0.0162266 -0.00884033 -0.00590397" />
+    <Prop name="Crate" position="13.8217 -0.792118 20.5169" rotation="0.111749 0.0171685 -0.00786814" />
+    <Prop name="Crate" position="12.4018 -2.69415 24.933" rotation="0.0132903 0.011198 0.0106866" />
+    <Prop name="Crate" position="12.4025 -0.808674 24.9349" rotation="0.159341 -0.0101916 0.0484486" />
+    <Prop name="Small Jump 1" position="12.4432 0.619692 21.7172" rotation="124.642 -89.9558 124.429" />
+    <Prop name="Crate" position="11.0978 -2.69747 29.5199" rotation="-118.876 -89.9315 -118.847" />
+    <Prop name="Crate" position="13.5321 -2.69631 29.487" rotation="140.343 -89.926 140.408" />
+    <Prop name="Concrete Bump" position="12.1875 -1.5835 34.1095" rotation="-28.5157 -89.9604 -28.6611" />
+    <Prop name="Concrete Bump" position="12.2647 -1.57643 28.9742" rotation="-4.75934 -89.9657 -4.73236" />
+    <Prop name="Crate" position="12.239 -2.70332 34.622" rotation="67.0875 -89.972 67.0755" />
+    <Prop name="Concrete Bump" position="12.2719 -1.57677 30.0695" rotation="59.4511 -89.9558 59.2954" />
+    <Prop name="Concrete Bump" position="12.2482 -1.58439 35.071" rotation="80.7484 -89.9477 80.7424" />
+    <Prop name="Small Jump 1" position="12.4532 -0.901175 29.1366" rotation="26.8359 -89.9234 26.9582" />
+    <Prop name="Concrete Bump" position="12.2181 -3.47035 36.6842" rotation="-30.9768 -89.9209 -31.3007" />
+    <Prop name="Concrete Bump" position="12.2197 -3.08344 36.6884" rotation="-91.1441 -89.9604 -92.8714" />
+    <Prop name="Small Jump 1" position="12.616 -2.51672 37.7955" rotation="-89.8023 -89.9558 -96.3089" />
+</Arena>

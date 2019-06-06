@@ -1,0 +1,35 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Junk Car" position="5.07922 -2.85958 -35.0864" rotation="94.9355 88.684 -107.332" />
+    <Prop name="Junk Car" position="8.46773 -3.22565 -13.0622" rotation="-26.5648 89.9558 26.8548" />
+    <Prop name="Junk Car" position="5.35482 -2.84202 -31.1529" rotation="128.949 87.5921 -141.676" />
+    <Prop name="Junk Car" position="5.328 -1.37128 -25.9213" rotation="83.2845 85.5714 -91.0544" />
+    <Prop name="Junk Car" position="5.16786 -3.2263 -18.5183" rotation="102.769 89.9161 -102.5" />
+    <Prop name="Junk Car" position="5.5089 -0.23307 -28.1524" rotation="-120.928 -74.1975 62.2446" />
+    <Prop name="Junk Car" position="5.2338 0.611136 -24.0771" rotation="119.894 79.6836 -82.9778" />
+    <Prop name="Junk Car" position="8.3884 -3.22493 -18.5214" rotation="164.94 89.8935 -164.775" />
+    <Prop name="Junk Car" position="8.57852 0.545733 -28.2627" rotation="91.6498 81.0088 -90.0033" />
+    <Prop name="Big Box" position="14.5922 -1.1345 -27.9338" rotation="0.000304415 -0.0010628 8.8925e-005" />
+    <Prop name="Junk Car" position="8.6305 -0.323013 -28.8326" rotation="-99.1086 -80.913 81.5811" />
+    <Prop name="Junk Car" position="8.49438 -1.55825 -31.1787" rotation="73.2853 83.9854 -71.7886" />
+    <Prop name="Big Box" position="-0.73462 -1.13485 -27.4878" rotation="-0.000135462 -2.16495 -0.00795151" />
+    <Prop name="Junk Car" position="4.99066 -3.21234 -23.8071" rotation="-176.205 89.8615 174.869" />
+    <Prop name="Junk Car" position="8.45458 0.290394 -24.0492" rotation="121.141 82.3777 -91.4767" />
+    <Prop name="Junk Car" position="5.14963 -2.10886 -22.1697" rotation="86.5295 85.4146 -80.5843" />
+    <Prop name="Junk Car" position="8.3001 -2.09603 -22.2003" rotation="90.3102 85.5991 -83.9743" />
+    <Prop name="Junk Car" position="8.14573 -2.83657 -27.3672" rotation="-12.4535 87.2359 -0.574272" />
+    <Prop name="Junk Car" position="5.60206 -1.53143 -30.9641" rotation="80.7799 83.0563 -82.0622" />
+    <Prop name="Junk Car" position="5.14128 -2.82362 -27.3466" rotation="-20.9874 89.1204 7.62676" />
+    <Prop name="Junk Car" position="8.19469 -2.87375 -31.349" rotation="129.256 88.1585 -141.27" />
+    <Prop name="Junk Car" position="5.3498 -3.22494 -13.2414" rotation="6.38105 89.9161 -6.23134" />
+    <Prop name="Junk Car" position="8.24424 -3.21547 -23.738" rotation="-3.04275 89.7797 1.82071" />
+    <Prop name="Junk Car" position="5.02541 -1.5331 -19.4973" rotation="104.078 85.3613 -87.8643" />
+    <Prop name="Junk Car" position="7.09921 -0.234969 -20.8021" rotation="4.51345 -0.440149 0.700058" />
+    <Prop name="Junk Car" position="8.29127 -1.35052 -25.8986" rotation="82.8219 84.8118 -91.8352" />
+    <Prop name="Junk Car" position="8.34911 -1.56651 -19.4249" rotation="99.5694 85.3332 -83.7385" />
+    <Prop name="Junk Car" position="5.42937 0.654268 -27.8847" rotation="85.7046 76.2582 -86.9392" />
+    <Prop name="Junk Car" position="8.27828 -1.41444 -16.5073" rotation="109.084 80.9653 -87.5568" />
+    <Prop name="Junk Car" position="8.05832 -2.86685 -35.2759" rotation="55.7023 88.413 -67.8842" />
+    <Prop name="Junk Car" position="5.41577 -1.41237 -16.6976" rotation="113.992 81.0604 -92.0794" />
+</Arena>

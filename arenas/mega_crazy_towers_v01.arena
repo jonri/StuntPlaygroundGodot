@@ -1,0 +1,338 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Big Box" position="12.894 1.34545 77.2642" rotation="0.000826285 -0.383725 90.009" />
+    <Prop name="Plywood" position="4.82888 60.8146 131.889" rotation="0.890369 -22.7755 -12.887" />
+    <Prop name="Big Box" position="51.4773 11.3123 86.8804" rotation="-0.0218116 0.825175 90.0238" />
+    <Prop name="Big Box" position="-56.1512 51.1674 90.2687" rotation="0.196678 -41.7536 -89.6261" />
+    <Prop name="Big Box" position="3.71994 8.83382 77.4857" rotation="12.156 89.4692 -12.0973" />
+    <Prop name="Big Box" position="-55.7671 21.2698 90.2851" rotation="0.152253 -40.8974 -89.7927" />
+    <Prop name="Big Box" position="21.5254 1.34504 77.2313" rotation="0.0110638 0.472781 89.9783" />
+    <Prop name="Barrel" position="-46.4102 73.1387 99.6532" rotation="-0.186506 0.601876 0.514105" />
+    <Prop name="Big Box" position="9.18909 8.83086 77.2858" rotation="6.3499 89.4454 -6.33523" />
+    <Prop name="Big Box" position="-55.2097 73.6412 91.4789" rotation="-0.576151 50.4588 0.521664" />
+    <Prop name="Big Box" position="7.9288 54.4607 134.215" rotation="6.0185 -23.0398 -49.2845" />
+    <Prop name="Simple Jump 1" position="-22.5651 17.7397 75.5993" rotation="90.1796 -85.2323 94.2615" />
+    <Prop name="Super Jump 1" position="-75.93 -2.93308 75.1932" rotation="-0.884316 3.15805 -0.383804" />
+    <Prop name="Big Box" position="-73.413 11.3027 68.9718" rotation="-0.0471733 -0.092371 -89.9868" />
+    <Prop name="Big Box" position="-39.7862 11.3036 104.246" rotation="0.00978692 -41.0254 90.0741" />
+    <Prop name="Plywood" position="42.4821 41.4318 142.536" rotation="-12.2881 -85.1607 -12.9027" />
+    <Prop name="Big Box" position="-73.434 31.2302 68.8424" rotation="-0.0988058 -0.0335948 -89.9551" />
+    <Prop name="Big Box" position="-73.4268 21.2673 68.9159" rotation="-0.0796149 -0.0236204 -89.9427" />
+    <Prop name="Plywood" position="-34.4908 13.5264 77.0469" rotation="-0.311719 1.09245 41.1941" />
+    <Prop name="Big Box" position="57.4057 28.8093 102.329" rotation="-179.693 75.4427 179.726" />
+    <Prop name="Big Box" position="37.0053 33.7522 143.391" rotation="140.514 89.596 -140.689" />
+    <Prop name="Big Box" position="57.3882 23.8012 102.326" rotation="-179.927 75.6105 179.919" />
+    <Prop name="Big Box" position="33.8204 43.766 140.185" rotation="179.513 47.4762 -179.81" />
+    <Prop name="Ring" position="-19.8863 -2.77608 76.1937" rotation="-45.3812 88.1606 45.2373" />
+    <Prop name="Barrel" position="-19.0721 66.8246 122.019" rotation="-0.0974873 0.398476 0.671442" />
+    <Prop name="Plywood" position="-73.2958 81.3994 65.2837" rotation="14.6821 -41.5701 10.0945" />
+    <Prop name="Barrel" position="-45.4282 73.1374 98.2541" rotation="-0.343695 -0.134652 0.554499" />
+    <Prop name="Barrel" position="-20.9004 69.5192 118.893" rotation="0.142556 -0.362067 0.430175" />
+    <Prop name="Plywood" position="-86.3727 -3.32255 66.5152" rotation="-6.54494 88.7073 1.80685" />
+    <Prop name="Big Box" position="-39.7821 21.2656 104.247" rotation="0.0336577 -41.023 90.0986" />
+    <Prop name="Big Box" position="14.6847 11.3059 138.369" rotation="0.00538299 0.0798947 89.9438" />
+    <Prop name="Big Box" position="-40.0074 8.85275 75.0442" rotation="-0.192456 -1.67372 0.142771" />
+    <Prop name="Big Box" position="55.6853 11.3074 95.6258" rotation="-0.0124132 0.580682 89.9892" />
+    <Prop name="Big Box" position="-62.2313 73.6268 54.5626" rotation="0.173478 -39.8881 -0.619113" />
+    <Prop name="Big Box" position="-63.3938 78.5731 61.2223" rotation="-178.824 -50.1347 -179.372" />
+    <Prop name="Big Box" position="49.2962 1.34161 129.698" rotation="-0.0272512 0.031857 89.9791" />
+    <Prop name="Small Jump 1" position="52.9214 34.0198 122.23" rotation="6.43265 79.6857 141.831" />
+    <Prop name="Big Box" position="-64.4896 31.241 81.238" rotation="0.186758 3.21853 90.2715" />
+    <Prop name="Big Box" position="-2.22655 58.6802 130.491" rotation="0.0239371 -25.905 0.496748" />
+    <Prop name="Barrel" position="-46.4523 74.4958 99.6303" rotation="-0.0721927 0.698568 0.374985" />
+    <Prop name="Big Box" position="37.5835 1.34313 77.3038" rotation="179.999 -0.183438 -90.0398" />
+    <Prop name="Barrel" position="-18.2553 66.8305 121.106" rotation="-0.0725929 0.104989 0.738753" />
+    <Prop name="Big Box" position="-44.8523 8.83847 -37.4042" rotation="0.0297805 -0.319168 -1.34801" />
+    <Prop name="Big Box" position="-1.0388 53.6869 130.79" rotation="0.0118374 -27.51 0.488271" />
+    <Prop name="Big Box" position="38.0678 38.7646 147.332" rotation="179.972 -40.5393 -179.706" />
+    <Prop name="Barrel" position="-16.1454 66.8534 122.818" rotation="0.0932283 -1.68562 0.517386" />
+    <Prop name="Barrel" position="-21.5999 68.1533 119.949" rotation="-0.0430619 0.0417161 0.762456" />
+    <Prop name="Plywood" position="-16.6768 68.0676 122.892" rotation="0.677672 -37.5289 -28.478" />
+    <Prop name="Small Jump 1" position="43.278 40.9794 136.265" rotation="4.40378 46.906 -25.7474" />
+    <Prop name="Barrel" position="-36.2065 73.2247 107.525" rotation="-0.0638904 0.182611 0.352424" />
+    <Prop name="Big Box" position="-64.9791 41.2097 55.1696" rotation="-0.270191 -65.2208 -90.73" />
+    <Prop name="Big Box" position="-15.3282 21.2694 121.898" rotation="0.0789006 0.236261 90.1069" />
+    <Prop name="Barrel" position="-18.3649 68.1858 121.033" rotation="0.303539 -1.29754 0.266517" />
+    <Prop name="Big Box" position="-39.0396 21.2171 -37.4676" rotation="-0.0318383 -0.0583963 34.2262" />
+    <Prop name="Simple Jump 1" position="47.8864 36.9989 131.466" rotation="-179.223 48.1749 -179.979" />
+    <Prop name="Barrel" position="-36.2119 71.8667 107.539" rotation="-0.201876 0.405266 0.263313" />
+    <Prop name="Big Box" position="56.7414 18.7961 101.56" rotation="179.934 71.8209 -179.944" />
+    <Prop name="Big Box" position="33.7966 28.753 143.413" rotation="-0.161346 0.0471918 -0.124379" />
+    <Prop name="2x4" position="29.3564 21.4678 77.5098" rotation="-0.170406 0.203555 1.22316" />
+    <Prop name="Big Box" position="0.454743 11.3095 132.069" rotation="-0.0904106 0.420858 90.1388" />
+    <Prop name="Big Box" position="-39.5336 13.8418 -37.735" rotation="-0.00435135 -0.126212 0.0634794" />
+    <Prop name="Big Box" position="0.583049 1.34252 132.282" rotation="-0.0509616 0.438145 90.0474" />
+    <Prop name="Plywood" position="27.1545 51.4001 141.757" rotation="-0.671072 61.2179 0.454012" />
+    <Prop name="Barrel" position="-16.883 66.8466 123.745" rotation="0.0305772 -0.244795 0.621171" />
+    <Prop name="Plywood" position="25.1761 51.2813 140.601" rotation="-0.190226 61.0419 0.0279044" />
+    <Prop name="Small Jump 1" position="17.8392 51.6565 138.708" rotation="-0.124852 -25.2737 -0.0344556" />
+    <Prop name="Barrel" position="-38.5846 73.2032 105.515" rotation="-0.328972 0.4647 0.130448" />
+    <Prop name="Barrel" position="-28.6084 71.8336 113.351" rotation="-179.677 51.929 -179.947" />
+    <Prop name="Big Box" position="-50.0528 14.4554 -37.1399" rotation="-0.442846 0.269364 39.1181" />
+    <Prop name="Big Box" position="51.1576 1.34531 86.8031" rotation="-0.00507309 -0.117645 90.0038" />
+    <Prop name="Big Box" position="-29.7197 63.6506 111.974" rotation="-0.0105596 -39.3714 -0.273026" />
+    <Prop name="Big Box" position="49.4491 21.2716 129.609" rotation="-0.0800429 -0.0343215 89.9361" />
+    <Prop name="Big Box" position="33.5076 1.34081 143.392" rotation="-0.0206001 -0.00415349 89.9515" />
+    <Prop name="Plywood" position="-89.2625 -3.31653 67.0089" rotation="0.485131 88.1022 -5.25835" />
+    <Prop name="Barrel" position="-30.6678 71.8471 111.562" rotation="0.455338 51.3806 -0.219315" />
+    <Prop name="Plywood" position="29.3125 48.8265 145.118" rotation="-179.974 47.1791 -129.159" />
+    <Prop name="Big Box" position="32.1432 43.7897 146.586" rotation="179.875 47.3734 -179.997" />
+    <Prop name="Big Box" position="-61.2429 78.6444 52.9553" rotation="-179.895 38.9004 -179.344" />
+    <Prop name="Barrel" position="-30.6791 73.2046 111.546" rotation="0.52323 50.4327 -0.326353" />
+    <Prop name="Big Box" position="27.1107 46.2524 141.013" rotation="-0.0775867 -47.2105 -89.7663" />
+    <Prop name="Barrel" position="-33.3386 73.2208 109.26" rotation="0.377171 -40.2337 -0.0681669" />
+    <Prop name="Plywood" position="-28.4949 73.9908 113.297" rotation="179.958 38.0561 -178.364" />
+    <Prop name="Big Box" position="-56.6448 -1.13405 -37.36" rotation="-0.00300338 -0.0818846 -0.00154399" />
+    <Prop name="Big Box" position="16.3635 14.1561 77.2029" rotation="0.890691 0.598515 51.0904" />
+    <Prop name="Barrel" position="-25.6962 71.8162 114.406" rotation="179.779 34.4329 -179.301" />
+    <Prop name="Big Box" position="-34.5267 1.34563 -37.7799" rotation="-0.000418347 11.2995 -90.0048" />
+    <Prop name="Plywood" position="-24.8408 73.0107 116.169" rotation="-179.894 38.1205 -144.877" />
+    <Prop name="Big Box" position="-55.5109 1.3417 90.4002" rotation="0.0382947 -43.0294 -89.9223" />
+    <Prop name="Big Box" position="-55.6009 11.3054 90.3099" rotation="0.0994582 -41.6568 -89.8787" />
+    <Prop name="Big Box" position="49.4232 11.3085 129.616" rotation="-0.0636236 0.00523688 89.9503" />
+    <Prop name="Big Box" position="15.0029 41.2057 138.333" rotation="-0.0629341 -0.118343 89.9044" />
+    <Prop name="Big Box" position="-56.1136 31.235 90.5162" rotation="0.0936739 -40.7693 -89.7798" />
+    <Prop name="Big Box" position="-67.7017 78.6429 57.7595" rotation="1.1481 50.4314 -0.618526" />
+    <Prop name="Big Box" position="50.1472 28.7534 126.98" rotation="-0.063527 65.0201 -0.103312" />
+    <Prop name="Big Box" position="51.5502 33.7633 129.032" rotation="-0.184916 -0.553544 -0.108488" />
+    <Prop name="Big Box" position="0.267008 21.2744 131.995" rotation="-0.141674 0.375482 90.2031" />
+    <Prop name="Big Box" position="-73.5196 61.1317 68.6385" rotation="-0.159123 0.0118532 -89.8685" />
+    <Prop name="Indicator" position="54.5048 21.9791 85.7273" rotation="0.0991473 -60.2784 0.172712" />
+    <Prop name="Plywood" position="13.4401 51.7344 137.306" rotation="38.7591 56.2514 -33.7628" />
+    <Prop name="Simple Jump 1" position="-61.0792 81.8702 53.1229" rotation="0.15512 -36.1834 -0.762069" />
+    <Prop name="Big Box" position="49.8686 18.7952 85.1654" rotation="-0.0125351 -32.3707 0.0583964" />
+    <Prop name="Big Box" position="-15.4755 41.1976 122.354" rotation="0.168317 -0.353729 90.1376" />
+    <Prop name="Concrete Bump" position="-73.0118 81.2451 64.5055" rotation="-0.39822 47.3034 0.0333485" />
+    <Prop name="Big Box" position="-29.8803 21.2682 112.021" rotation="0.0792544 -0.0016121 -90.0539" />
+    <Prop name="Big Box" position="-15.3633 11.3037 121.914" rotation="0.0414102 0.23969 90.0601" />
+    <Prop name="Big Box" position="-25.6924 31.7804 -38.0797" rotation="-0.0923938 0.736768 54.3351" />
+    <Prop name="Big Box" position="33.4955 11.3049 143.415" rotation="-0.0631108 0.0478379 89.9243" />
+    <Prop name="Big Box" position="-64.3802 21.2763 81.1681" rotation="0.144692 3.11017 90.2261" />
+    <Prop name="Big Box" position="-63.9245 73.6225 84.7656" rotation="179.727 -50.8619 179.141" />
+    <Prop name="Plywood" position="40.9751 41.3004 143.155" rotation="-167.113 -88.6687 -167.082" />
+    <Prop name="Big Box" position="-37.2061 68.6744 106.506" rotation="-0.545472 49.3602 0.480976" />
+    <Prop name="Barrel" position="-28.6542 73.1895 113.308" rotation="179.649 51.1447 -179.549" />
+    <Prop name="Big Box" position="-31.8902 3.86347 75.5906" rotation="-0.152516 -1.79562 0.0666066" />
+    <Prop name="Big Box" position="-29.8477 1.34061 112.047" rotation="0.0444147 -0.124571 -90.0244" />
+    <Prop name="Big Box" position="-17.9073 28.8181 -37.8081" rotation="-0.0599162 0.0472662 0.157602" />
+    <Prop name="Big Box" position="-73.4143 1.34147 68.9839" rotation="-0.0480093 -0.131374 -89.9809" />
+    <Prop name="Big Box" position="-64.618 41.2061 81.3744" rotation="0.223534 3.54844 90.3241" />
+    <Prop name="Big Box" position="-73.4427 41.1986 68.7868" rotation="-0.135969 -0.0681541 -89.9158" />
+    <Prop name="Big Box" position="-64.2982 11.3104 81.0748" rotation="0.1016 3.21919 90.1702" />
+    <Prop name="Big Box" position="-18.1178 63.6493 121.471" rotation="0.453697 -40.4556 -179.278" />
+    <Prop name="Plywood" position="20.6815 20.9371 76.4068" rotation="0.404713 0.0609915 -150.885" />
+    <Prop name="Big Box" position="-15.3908 31.2346 121.914" rotation="0.116581 0.368971 90.1373" />
+    <Prop name="Big Box" position="-18.251 11.3112 -37.7247" rotation="-0.0522616 -0.0021056 90.1135" />
+    <Prop name="Indicator" position="-98.9273 -3.02082 59.4497" rotation="0.242964 -19.2737 0.696524" />
+    <Prop name="Big Box" position="-51.2539 3.86967 -37.7852" rotation="0.00282448 0.748029 -0.0365788" />
+    <Prop name="Big Box" position="56.944 29.9268 115.055" rotation="-0.228415 6.94985 6.91595" />
+    <Prop name="Big Box" position="-56.9082 1.34542 75.0994" rotation="0.00139104 0.0661409 89.9959" />
+    <Prop name="Big Box" position="-73.4542 51.1628 68.7402" rotation="-0.160644 -0.0680715 -89.8746" />
+    <Prop name="Big Box" position="31.523 33.7638 143.563" rotation="156.559 89.5846 -156.759" />
+    <Prop name="Big Box" position="-51.0124 8.83188 75.1808" rotation="-0.0214214 -0.582596 0.0143367" />
+    <Prop name="Big Box" position="-3.25398 1.34401 77.3441" rotation="0.00235551 0.0200716 90.0261" />
+    <Prop name="Concrete Tube" position="-97.3859 -2.63516 75.915" rotation="0.118861 4.04684 0.0402965" />
+    <Prop name="Big Box" position="-65.0697 21.2762 54.9356" rotation="-0.18697 -64.9775 -90.426" />
+    <Prop name="Big Box" position="-4.07348 1.34136 -37.2391" rotation="0.0319461 0.037242 90.0242" />
+    <Prop name="Big Box" position="-68.0048 73.6082 81.1115" rotation="179.724 -50.8595 179.141" />
+    <Prop name="Plywood" position="20.7032 20.9128 79.2344" rotation="0.489729 -0.081582 -150.419" />
+    <Prop name="Plywood" position="-68.5259 79.558 81.555" rotation="1.25192 -64.6965 -26.7863" />
+    <Prop name="Big Box" position="-65.0015 61.1357 81.5654" rotation="0.310406 3.02136 90.4238" />
+    <Prop name="Big Box" position="-73.8121 78.583 68.2285" rotation="0.120521 -64.8866 0.337662" />
+    <Prop name="Big Box" position="-65.0023 31.2427 55.1723" rotation="-0.25278 -64.9606 -90.5944" />
+    <Prop name="Plywood" position="-66.541 77.548 85.3416" rotation="1.5461 -64.4457 -24.5034" />
+    <Prop name="Big Box" position="-73.5845 71.0964 68.6526" rotation="-0.171197 -0.0133032 -89.8587" />
+    <Prop name="Plywood" position="53.3183 33.1038 119.553" rotation="-26.6793 -8.81848 174.36" />
+    <Prop name="Barrel" position="-45.4661 74.495 98.2049" rotation="-0.0236819 -0.703132 0.569724" />
+    <Prop name="Big Box" position="-65.1027 11.3111 55.0177" rotation="-0.208043 -64.9334 -90.3646" />
+    <Prop name="Big Box" position="-57.9389 8.19871 -36.8409" rotation="0.0523371 0.676283 41.4687" />
+    <Prop name="Small Jump 1" position="-11.5038 62.6595 126.544" rotation="0.262827 -34.1978 134.808" />
+    <Prop name="Big Box" position="-64.8047 61.141 55.5547" rotation="-0.338692 -65.2346 -90.9536" />
+    <Prop name="Big Box" position="-22.3284 23.7884 -37.6379" rotation="-0.0862881 0.210904 0.252093" />
+    <Prop name="Big Box" position="-64.8914 51.1748 55.3299" rotation="-0.258707 -65.0871 -90.8171" />
+    <Prop name="Plywood" position="31.2443 48.8973 143.06" rotation="-179.98 47.0153 -127.004" />
+    <Prop name="Big Box" position="-15.3782 1.33872 121.928" rotation="-0.00531359 0.171071 90.0205" />
+    <Prop name="Plywood" position="-72.4123 -1.38066 -38.4401" rotation="-0.00974535 0.80445 43.5581" />
+    <Prop name="Barrel" position="-21.6702 66.7962 119.926" rotation="-0.255122 0.00581474 0.460187" />
+    <Prop name="Barrel" position="-20.8502 66.8049 118.912" rotation="-0.157336 -0.100367 0.788209" />
+    <Prop name="Crate" position="-67.6232 77.0519 83.3929" rotation="0.127226 23.2514 0.595728" />
+    <Prop name="Big Box" position="26.9169 1.33967 -36.4565" rotation="-0.00403259 -0.293909 -90.0562" />
+    <Prop name="Big Box" position="-65.3526 1.53847 -36.8652" rotation="0.00512245 0.626632 41.4514" />
+    <Prop name="Big Box" position="-18.3056 18.7966 -37.4027" rotation="-0.0424845 0.0930192 0.192391" />
+    <Prop name="Plywood" position="12.6162 -7.14647 91.603" rotation="0.00321172 0.163065 0.0065495" />
+    <Prop name="Big Box" position="-4.09264 11.3062 -37.21" rotation="0.0748276 -0.0427835 90.0581" />
+    <Prop name="Plywood" position="-37.6238 74.0081 105.994" rotation="-0.677824 -39.8306 -1.65377" />
+    <Prop name="Big Box" position="-10.5632 46.6739 -37.0553" rotation="0.194693 0.0268101 49.8865" />
+    <Prop name="Big Box" position="-34.8282 8.83078 -37.7239" rotation="0.00980135 -0.199126 -0.0539198" />
+    <Prop name="Barrel" position="-38.5916 71.8481 105.531" rotation="-0.170363 0.254767 0.356523" />
+    <Prop name="Plywood" position="-72.52 -1.43676 -35.5634" rotation="0.00112478 0.71927 42.1712" />
+    <Prop name="Big Box" position="-64.4663 68.6218 55.9053" rotation="1.07908 50.08 -0.632088" />
+    <Prop name="Big Box" position="-1.74566 8.82913 77.3612" rotation="-2.38832 89.4902 2.36056" />
+    <Prop name="Big Box" position="-18.2655 1.34293 -37.7211" rotation="0.00439166 0.0239791 90.0167" />
+    <Prop name="Big Box" position="-43.0692 68.6323 101.442" rotation="0.155999 -40.8534 0.655874" />
+    <Prop name="Barrel" position="-19.1161 68.1774 121.967" rotation="0.0963851 0.361695 0.634115" />
+    <Prop name="Big Box" position="-4.27361 28.7559 -36.9701" rotation="0.134825 0.103868 0.15909" />
+    <Prop name="Crate" position="-69.2374 78.9584 79.9834" rotation="0.108557 25.5783 0.598793" />
+    <Prop name="Crate" position="-69.2011 77.0584 80.1361" rotation="0.168094 22.5969 0.59515" />
+    <Prop name="Big Box" position="-46.6742 -1.13486 -37.4692" rotation="0.000244828 -0.0876653 0.00338773" />
+    <Prop name="Barrel" position="-21.671 69.51 119.933" rotation="0.163085 -0.224047 0.467277" />
+    <Prop name="Big Box" position="-4.1974 54.3582 -35.892" rotation="0.11613 -0.0581881 49.6273" />
+    <Prop name="Big Box" position="-0.279908 38.7809 -37.0834" rotation="-163.665 89.843 163.852" />
+    <Prop name="Big Box" position="-39.8069 31.2296 104.249" rotation="0.0264874 -40.9439 90.1401" />
+    <Prop name="Big Box" position="10.1205 31.238 -37.0491" rotation="0.0545439 0.109892 89.8207" />
+    <Prop name="Big Box" position="-39.7999 1.33943 104.247" rotation="0.0206853 -41.0258 90.022" />
+    <Prop name="Plywood" position="-44.9082 74.9939 99.5524" rotation="-1.00729 -37.1035 -18.3352" />
+    <Prop name="Small Jump 1" position="-6.78995 61.6062 129.005" rotation="0.18697 -32.174 0.717356" />
+    <Prop name="Barrel" position="-25.7154 73.1754 114.405" rotation="179.76 34.2376 -179.278" />
+    <Prop name="Big Box" position="-65.1332 1.34201 55.0584" rotation="-0.0778336 -65.2021 -90.1327" />
+    <Prop name="Big Box" position="-56.3515 61.1341 90.3635" rotation="0.129536 -42.4063 -89.6086" />
+    <Prop name="Big Box" position="55.1963 21.2735 93.9275" rotation="-0.0859365 18.3801 89.984" />
+    <Prop name="Small Jump 1" position="38.4303 45.4118 146.561" rotation="1.431 43.9032 -38.4823" />
+    <Prop name="Ring" position="58.1442 -2.81979 114.45" rotation="0.45401 -1.49377 -0.575709" />
+    <Prop name="Big Box" position="9.97911 1.34202 -37.1213" rotation="0.0108432 0.382468 90.0031" />
+    <Prop name="Plywood" position="9.90956 11.6449 77.716" rotation="-96.6142 79.4742 96.7471" />
+    <Prop name="Barrel" position="-40.2703 73.2132 104.232" rotation="0.137862 -38.319 0.654799" />
+    <Prop name="Big Box" position="-65.7614 73.6086 58.762" rotation="0.319184 -39.7748 -0.532298" />
+    <Prop name="Big Box" position="10.1491 41.2033 -37.0732" rotation="0.100902 -0.268907 89.7997" />
+    <Prop name="Big Box" position="26.9725 21.2701 -36.475" rotation="-0.0154277 0.0653797 -90.135" />
+    <Prop name="Big Box" position="31.9439 78.6638 -36.6975" rotation="22.3813 89.1921 -22.5" />
+    <Prop name="Big Box" position="-29.7051 58.6471 111.987" rotation="-0.007749 -39.3801 -0.289778" />
+    <Prop name="Big Box" position="44.9832 61.1298 -36.4992" rotation="0.13066 0.300109 89.9356" />
+    <Prop name="Big Box" position="-31.964 16.3142 -37.747" rotation="-0.01637 -0.0705067 89.8775" />
+    <Prop name="Big Box" position="-14.467 58.6496 124.021" rotation="0.302736 -36.2516 0.265798" />
+    <Prop name="Big Box" position="-16.3308 33.8289 -37.4579" rotation="-12.5683 89.4766 12.4836" />
+    <Prop name="Big Box" position="37.7221 11.309 77.3032" rotation="-0.0123156 -0.0287385 90.1454" />
+    <Prop name="Big Box" position="10.7838 48.6881 -37.1679" rotation="0.126559 -1.3617 179.762" />
+    <Prop name="Barrel" position="-43.5801 73.1693 100.867" rotation="0.139335 -39.3188 0.668401" />
+    <Prop name="Big Box" position="33.5415 21.2701 143.407" rotation="-0.104001 -0.0355902 89.8716" />
+    <Prop name="Small Jump 1" position="52.1337 32.1979 122.214" rotation="-179.906 -58.7298 3.30813" />
+    <Prop name="Big Box" position="-39.9338 63.6493 104.253" rotation="0.129546 -40.8838 0.402876" />
+    <Prop name="Big Box" position="-39.9257 58.6441 104.249" rotation="0.113779 -40.9347 0.359383" />
+    <Prop name="Big Box" position="-31.4356 24.9829 -37.9898" rotation="90.0938 -36.1198 90.1916" />
+    <Prop name="Big Box" position="-4.12004 21.272 -37.2096" rotation="0.118708 -0.0970423 90.1161" />
+    <Prop name="Big Box" position="-39.8736 51.1594 104.159" rotation="0.100164 -40.9326 90.2969" />
+    <Prop name="Big Box" position="-29.9123 41.1983 112.041" rotation="0.133811 0.140058 -90.1529" />
+    <Prop name="Big Box" position="44.6021 1.34122 -36.803" rotation="0.0665707 0.210147 89.953" />
+    <Prop name="Big Box" position="-14.5325 23.8183 -37.4609" rotation="-123.324 89.7833 123.265" />
+    <Prop name="Big Box" position="7.42527 53.7244 -37.1523" rotation="0.134057 -1.35288 -179.731" />
+    <Prop name="Big Box" position="-39.8173 41.1933 104.219" rotation="0.0340122 -40.7797 90.1939" />
+    <Prop name="Big Box" position="-4.28279 33.7621 -36.9525" rotation="0.175411 0.285237 0.182811" />
+    <Prop name="Big Box" position="-19.6908 39.723 -40.0975" rotation="179.296 0.0645819 125.666" />
+    <Prop name="Big Box" position="26.9575 31.2359 -36.5114" rotation="-0.0546 -0.613502 -90.1736" />
+    <Prop name="Big Box" position="9.9681 11.3085 -37.1236" rotation="0.060347 -0.167983 89.9449" />
+    <Prop name="Big Box" position="29.5235 73.6674 -36.6224" rotation="-0.117424 -0.632798 -0.31031" />
+    <Prop name="Big Box" position="-0.773055 48.7976 -36.7876" rotation="-15.3664 89.8846 15.5362" />
+    <Prop name="Big Box" position="44.9002 51.1647 -36.3341" rotation="0.183585 2.29218 89.9042" />
+    <Prop name="Big Box" position="27.0766 41.2019 -36.51" rotation="-0.0963209 -1.01259 -90.2264" />
+    <Prop name="Plywood" position="3.86372 60.6369 134.54" rotation="2.21233 -21.9783 -15.3812" />
+    <Prop name="Big Box" position="-8.01001 38.7601 -36.9451" rotation="0.189408 0.0618353 0.209972" />
+    <Prop name="Big Box" position="26.9681 11.3032 -36.4719" rotation="0.0201108 -0.117845 -90.0748" />
+    <Prop name="Big Box" position="13.0568 58.7432 -37.2882" rotation="0.194724 -0.188489 -1.25612" />
+    <Prop name="Big Box" position="-2.62451 43.787 -36.8188" rotation="0.182365 0.0396999 0.0311789" />
+    <Prop name="Small Jump 1" position="55.1303 27.7646 94.6033" rotation="-179.972 71.0896 -47.9986" />
+    <Prop name="Big Box" position="44.7843 41.1983 -36.4386" rotation="0.117714 1.1879 89.8481" />
+    <Prop name="Big Box" position="21.5707 76.6217 -36.8477" rotation="-0.151174 -0.620506 49.7834" />
+    <Prop name="Big Box" position="-56.6723 68.6197 89.8609" rotation="0.175799 -42.2035 -179.559" />
+    <Prop name="Big Box" position="56.217 22.2975 114.922" rotation="-0.275904 7.62919 97.0176" />
+    <Prop name="Big Box" position="0.176622 48.6924 131.722" rotation="-0.0367295 -27.9828 0.422662" />
+    <Prop name="Big Box" position="45.02 71.0931 -36.3205" rotation="0.0905757 0.426807 89.9466" />
+    <Prop name="Big Box" position="27.1555 58.6513 -36.7513" rotation="-0.167683 -0.760228 -0.223597" />
+    <Prop name="Big Box" position="15.2937 63.701 -36.4868" rotation="89.9725 88.7382 -89.7573" />
+    <Prop name="Big Box" position="10.0212 21.2739 -37.1089" rotation="0.041139 -0.274273 89.8758" />
+    <Prop name="Big Box" position="60.381 1.34274 -36.0279" rotation="0.0885147 0.813838 89.9538" />
+    <Prop name="Big Box" position="26.8855 1.34419 77.2284" rotation="-179.969 1.54203 -89.9845" />
+    <Prop name="Big Box" position="60.7069 51.1676 -35.4635" rotation="0.405067 0.407402 89.5673" />
+    <Prop name="Big Box" position="15.3009 53.6854 -37.2908" rotation="78.9669 88.7423 -78.8042" />
+    <Prop name="Big Box" position="47.0958 88.7129 -36.0589" rotation="0.0768693 0.611178 -2.14132" />
+    <Prop name="Big Box" position="4.89608 61.5749 -37.7489" rotation="0.129895 -0.845502 47.3655" />
+    <Prop name="Big Box" position="27.2221 51.1663 -36.589" rotation="-0.130929 -0.136502 -90.2653" />
+    <Prop name="Big Box" position="44.4966 11.3064 -36.8096" rotation="0.0225035 0.22397 89.9182" />
+    <Prop name="Big Box" position="11.6347 68.8934 -35.1326" rotation="0.456428 -0.212117 47.3553" />
+    <Prop name="Big Box" position="57.9117 11.3076 105.666" rotation="-0.0102782 1.66537 -90.0119" />
+    <Prop name="Plywood" position="-31.9987 73.9426 110.364" rotation="179.983 41.5258 -179.685" />
+    <Prop name="Simple Jump 1" position="57.8901 32.0236 105.479" rotation="-179.971 -7.1849 179.957" />
+    <Prop name="Big Box" position="60.4047 31.2383 -35.6547" rotation="0.377542 3.45051 89.6957" />
+    <Prop name="Big Box" position="27.2103 63.6576 -36.7653" rotation="-0.122348 -0.460483 -0.25016" />
+    <Prop name="Big Box" position="28.3102 83.9802 -36.8742" rotation="-0.181057 -0.692713 49.7739" />
+    <Prop name="Big Box" position="23.9206 68.6813 -36.8751" rotation="-0.129248 -0.632694 -0.229963" />
+    <Prop name="Big Box" position="49.0291 83.6272 -35.9071" rotation="137.463 86.8385 -137.381" />
+    <Prop name="Big Box" position="31.6688 68.6469 -36.5396" rotation="28.2302 89.3436 -28.358" />
+    <Prop name="Big Box" position="49.8041 93.624 -35.8583" rotation="66.3939 87.6859 -66.3713" />
+    <Prop name="Barrel" position="-40.2493 71.8542 104.266" rotation="0.0593481 -37.8921 0.672838" />
+    <Prop name="Barrel" position="-26.755 73.1746 115.727" rotation="-179.991 35.1111 -179.448" />
+    <Prop name="Big Box" position="14.87 31.2385 138.342" rotation="-0.0368004 0.0779537 89.878" />
+    <Prop name="Big Box" position="-26.1265 68.6375 114.826" rotation="179.99 39.375 -179.656" />
+    <Prop name="Big Box" position="44.7174 21.2698 -36.6044" rotation="0.0899542 2.97972 89.8556" />
+    <Prop name="Big Box" position="44.8829 31.2347 -36.6352" rotation="0.137455 1.6459 89.903" />
+    <Prop name="Big Box" position="-29.5339 11.3522 75.6157" rotation="-0.150001 0.646754 90.1183" />
+    <Prop name="Big Box" position="60.3782 11.3084 -36.1173" rotation="0.179977 0.798516 89.842" />
+    <Prop name="Big Box" position="60.5987 41.2051 -35.7105" rotation="0.416134 1.14931 89.592" />
+    <Prop name="Big Box" position="-64.0997 1.34269 81.1625" rotation="0.0369848 3.89814 90.0737" />
+    <Prop name="Big Box" position="45.1912 78.578 -35.9601" rotation="0.14372 1.84044 -0.00646234" />
+    <Prop name="Big Box" position="-59.624 73.6061 88.1563" rotation="-0.47793 50.8663 0.442149" />
+    <Prop name="Big Box" position="41.0258 83.611 -35.9536" rotation="0.156707 1.22913 1.51953" />
+    <Prop name="Big Box" position="77.0439 98.4861 -35.6984" rotation="-0.120945 0.739161 0.00605184" />
+    <Prop name="Big Box" position="38.3818 91.2456 -36.229" rotation="0.158421 0.854764 43.5094" />
+    <Prop name="Big Box" position="23.805 11.313 77.2924" rotation="-0.0119707 1.37762 89.8956" />
+    <Prop name="Big Box" position="60.8115 61.1356 -35.4786" rotation="0.499938 1.14044 89.4985" />
+    <Prop name="Barrel" position="-46.4456 71.7793 99.6272" rotation="-0.278238 1.56479 0.550189" />
+    <Prop name="Big Box" position="61.2715 88.5409 -34.5835" rotation="0.540127 -1.80774 -0.657397" />
+    <Prop name="Big Box" position="61.1996 81.0567 -34.8354" rotation="0.605647 -1.20362 89.4044" />
+    <Prop name="Plywood" position="-34.5415 13.4952 74.1831" rotation="-0.190037 0.753267 40.5057" />
+    <Prop name="Big Box" position="60.5037 21.2706 -35.8314" rotation="0.250446 2.00466 89.7671" />
+    <Prop name="Big Box" position="61.0634 71.0977 -35.4499" rotation="0.550431 -0.976546 89.4991" />
+    <Prop name="Barrel" position="-33.3421 71.8642 109.268" rotation="0.100632 -40.0787 -0.240446" />
+    <Prop name="Big Box" position="57.9717 93.6116 -34.2958" rotation="0.580988 -0.0777427 0.484483" />
+    <Prop name="Big Box" position="14.6312 1.34112 138.361" rotation="-0.0249621 0.170676 89.9964" />
+    <Prop name="Big Box" position="65.87 93.5096 -34.4614" rotation="84.0064 87.1388 -83.3462" />
+    <Prop name="Big Box" position="77.4295 21.2627 -35.9645" rotation="-0.217415 -0.025068 89.9024" />
+    <Prop name="Big Box" position="77.6367 1.33496 -36.0907" rotation="-0.102409 1.14734 89.8812" />
+    <Prop name="Plywood" position="-19.9231 69.7848 120.349" rotation="-0.485867 -39.3313 -22.3643" />
+    <Prop name="Barrel" position="-20.821 68.1605 118.923" rotation="0.153721 -0.134828 0.469675" />
+    <Prop name="Big Box" position="-56.1693 41.2021 90.2347" rotation="0.190971 -41.3085 -89.6891" />
+    <Prop name="Big Box" position="77.4457 11.2965 -35.9204" rotation="-0.027862 0.0930117 90.0587" />
+    <Prop name="Big Box" position="77.348 91.001 -35.9904" rotation="-0.173714 0.549621 90.0713" />
+    <Prop name="Big Box" position="77.5715 31.2226 -36.162" rotation="-0.145052 0.75625 89.9289" />
+    <Prop name="Big Box" position="45.566 98.1524 -36.7349" rotation="-0.816133 -0.0604366 43.5169" />
+    <Prop name="Big Box" position="77.4112 41.1861 -35.9748" rotation="-0.120904 0.771452 90.1044" />
+    <Prop name="Big Box" position="77.4913 51.146 -36.1295" rotation="-0.192046 0.856081 90.0185" />
+    <Prop name="Big Box" position="77.2672 61.1103 -36.0543" rotation="-0.121194 0.379076 90.0731" />
+    <Prop name="Big Box" position="77.296 71.073 -35.9772" rotation="-0.183125 -0.687999 90.1074" />
+    <Prop name="Big Box" position="77.3023 81.0356 -36.0493" rotation="-0.25169 -0.946548 90.0667" />
+    <Prop name="Big Box" position="77.0264 103.488 -35.8442" rotation="-0.197531 0.620086 0.01323" />
+    <Prop name="Big Box" position="74.4795 108.496 -35.8496" rotation="-179.727 88.406 179.523" />
+    <Prop name="Big Box" position="55.9477 1.34429 96.4903" rotation="0.00260228 0.432283 90.0012" />
+    <Prop name="Big Box" position="80.0146 108.496 -36.0792" rotation="179.72 88.2628 -179.899" />
+    <Prop name="Big Box" position="63.8855 98.6216 -34.3132" rotation="0.684379 -0.217969 -2.87268" />
+    <Prop name="Big Box" position="55.8426 101.505 -34.4965" rotation="0.493169 -0.0371157 49.3777" />
+    <Prop name="Big Box" position="66.4688 103.503 -34.1757" rotation="96.3406 87.1074 -95.7194" />
+    <Prop name="Big Box" position="62.758 108.713 -35.1783" rotation="0.708598 0.20362 49.3631" />
+    <Prop name="Big Box" position="-29.8872 31.2327 112.024" rotation="0.0945465 0.143978 -90.107" />
+    <Prop name="Big Box" position="30.4639 38.7761 143.544" rotation="179.899 50.6043 179.932" />
+    <Prop name="Big Box" position="15.9572 48.6921 138.407" rotation="-0.0637464 -16.0833 -0.0772712" />
+    <Prop name="Big Box" position="57.9295 1.34523 105.691" rotation="-0.0100024 1.29157 -90.009" />
+    <Prop name="Small Jump 1" position="52.4977 22.8159 89.082" rotation="-179.904 71.0338 -50.1496" />
+    <Prop name="Barrel" position="-26.7473 71.8155 115.728" rotation="-179.949 35.2034 -179.469" />
+    <Prop name="Big Box" position="-29.8428 11.3043 112.054" rotation="0.0253284 0.00881917 -90.034" />
+    <Prop name="Big Box" position="0.0336369 31.2395 131.912" rotation="-0.185905 0.654626 90.2663" />
+    <Prop name="Big Box" position="5.67409 1.34473 76.9636" rotation="-179.999 0.916329 -89.9843" />
+    <Prop name="Big Box" position="-28.9383 -1.13646 77.4258" rotation="-0.0915027 -0.49016 0.0215668" />
+    <Prop name="Big Box" position="14.7728 21.2718 138.355" rotation="-0.0484174 0.112686 89.9215" />
+    <Prop name="Big Box" position="-15.5047 51.1633 122.443" rotation="0.108264 -0.14333 90.1692" />
+    <Prop name="Big Box" position="-0.297157 41.2027 131.806" rotation="-0.210597 1.00156 90.318" />
+    <Prop name="Big Box" position="-32.4206 68.6742 110.303" rotation="0.429503 50.8102 -0.327074" />
+    <Prop name="Big Box" position="-65.4141 68.6181 82.035" rotation="0.787996 -39.5588 0.650225" />
+    <Prop name="Big Box" position="-45.9013 1.34437 74.8248" rotation="-0.000543747 -2.27127 90.0158" />
+    <Prop name="2x4" position="29.3417 21.4247 75.1584" rotation="-1.37601 0.28204 0.38601" />
+    <Prop name="Plywood" position="-22.5111 -11.4105 116.331" rotation="-16.7925 -47.869 -119.909" />
+    <Prop name="Big Box" position="37.8273 38.7479 140.312" rotation="-0.112985 39.6139 -0.184574" />
+    <Prop name="Big Box" position="-29.9133 51.1623 112.035" rotation="0.129817 0.00500527 -90.2037" />
+    <Prop name="Barrel" position="-45.4546 71.7806 98.2571" rotation="-0.193325 -0.159967 0.586249" />
+    <Prop name="Barrel" position="-43.5677 71.81 100.896" rotation="0.145563 -39.377 0.657043" />
+    <Prop name="Big Box" position="35.6804 18.7881 77.035" rotation="179.979 0.861971 -0.213638" />
+    <Prop name="Simple Jump 1" position="37.7722 22.0152 77.3222" rotation="179.394 -71.786 179.373" />
+    <Prop name="Plywood" position="-41.7408 73.9238 102.462" rotation="-0.970621 -42.0923 -0.163568" />
+    <Prop name="Big Box" position="-64.8251 51.1713 81.4446" rotation="0.26736 3.00148 90.3774" />
+    <Prop name="Big Box" position="24.2033 18.7976 77.5351" rotation="169.68 88.9553 -169.68" />
+</Arena>

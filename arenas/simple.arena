@@ -1,0 +1,13 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Concrete Tube" position="2.42425e-007 -2.61476 -3.48012e-008" rotation="0 0 0" />
+    <Prop name="Crate" position="0.0164872 4.35657 0.0131647" rotation="-0.0595303 -0.0809488 -2.307" />
+    <Prop name="Crate" position="-0.313699 4.36325 2.92808" rotation="-0.0946814 3.14383 0.297902" />
+    <Prop name="Crate" position="0.207545 4.37731 5.43506" rotation="-0.0127796 -0.712058 -0.417544" />
+    <Prop name="Plywood" position="-0.246641 5.38203 4.35623" rotation="-178.212 -86.8151 -177.903" />
+    <Prop name="Plywood" position="-0.0280516 5.47723 2.6503" rotation="-174.374 -87.2046 -174.005" />
+    <Prop name="Barrel" position="0.395496 6.20986 3.13928" rotation="-28.7015 -89.4651 -28.2228" />
+    <Prop name="Barrel" position="0.400616 7.56429 2.87608" rotation="-3.78855 -85.0234 -3.12094" />
+    <Prop name="Simple Jump 1" position="-18.5311 -2.91715 3.73952" rotation="-0.199769 -86.3765 -0.318241" />
+</Arena>

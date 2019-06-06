@@ -1,0 +1,10 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Tunnel Jump" position="-26.8898 -3.35354 2.87654" rotation="-88.785 89.9657 88.7736" />
+    <Prop name="Tunnel Jump" position="-27.3744 -3.34575 -42.4443" rotation="-88.3457 -89.9657 -88.34" />
+    <Prop name="Loop" position="45.8032 -3.30109 1.79993" rotation="0.023574 86.3993 -0.0322726" />
+    <Prop name="Super Jump 1" position="32.9346 -3.12757 38.0579" rotation="-0.0127783 86.3998 -0.00998122" />
+    <Prop name="Stop Sign" position="12.6481 -2.24066 1.67655" rotation="-0.268906 -56.4843 -0.305681" />
+    <Prop name="Crate" position="14.6178 -2.69607 3.83946" rotation="-0.0109224 -57.6042 -0.0184867" />
+</Arena>

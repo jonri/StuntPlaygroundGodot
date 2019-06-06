@@ -1,0 +1,10 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Junk Car" position="0.0981684 -3.22844 1.77056" rotation="-167.985 89.9657 168.138" />
+    <Prop name="Junk Car" position="-1.9349 -3.23366 1.73713" rotation="-14.0712 89.9802 14.263" />
+    <Prop name="Junk Car" position="-1.99324 -3.22972 -3.34206" rotation="-88.8755 89.972 89.0052" />
+    <Prop name="Junk Car" position="0.131908 -3.22919 -3.31621" rotation="-86.9538 89.972 87.0903" />
+    <Prop name="Plywood" position="-0.953483 -3.12612 6.80783" rotation="-19.9024 89.8899 28.1636" />
+    <Prop name="Plywood" position="-0.938197 -3.14582 -8.28256" rotation="95.6754 89.8275 -103.527" />
+</Arena>

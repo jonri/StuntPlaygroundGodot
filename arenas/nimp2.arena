@@ -1,0 +1,68 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Crate" position="-0.136148 3.31856 -42.6555" rotation="-179.203 89.8345 179.172" />
+    <Prop name="Crate" position="-3.37384 3.31953 -42.6678" rotation="171.349 89.8615 -171.302" />
+    <Prop name="Crate" position="-1.76566 5.21171 -42.9066" rotation="-179.518 89.7973 179.57" />
+    <Prop name="Quarter Pipe" position="-0.364265 -3.2446 -40.5287" rotation="178.017 89.8781 -177.97" />
+    <Prop name="Crate" position="2.93558 3.31715 -42.5769" rotation="179.047 89.8846 -179" />
+    <Prop name="Crate" position="1.39091 5.21125 -42.8435" rotation="179.937 89.8629 179.972" />
+    <Prop name="Barrel" position="-0.274661 10.0847 -42.8774" rotation="-112.817 89.5922 113.384" />
+    <Prop name="Crate" position="-0.194211 7.10455 -43.0898" rotation="166.395 89.8587 -166.416" />
+    <Prop name="Barrel" position="-0.265111 8.73002 -42.8883" rotation="-113.576 89.7195 113.858" />
+    <Prop name="Plywood" position="-0.269532 10.8115 -42.7755" rotation="-179.49 -0.804141 179.556" />
+    <Prop name="Cone" position="-0.26357 11.1277 -41.888" rotation="-179.445 1.3715 179.25" />
+    <Prop name="Cone" position="-0.453407 11.1346 -42.7754" rotation="-179.233 -3.93597 179.652" />
+    <Prop name="Cone" position="-0.502644 11.1438 -43.743" rotation="-179.595 -0.335058 179.126" />
+    <Prop name="Cone" position="-1.32597 11.1338 -43.6552" rotation="-179.507 -1.4624 179.475" />
+    <Prop name="Cone" position="0.414734 11.1507 -43.7836" rotation="-179.668 6.33566 179.792" />
+    <Prop name="Cone" position="-1.2619 11.1271 -42.6917" rotation="-179.369 -0.600743 179.334" />
+    <Prop name="Cone" position="-1.1442 11.1187 -41.8221" rotation="-179.417 -0.492086 179.598" />
+    <Prop name="Cone" position="0.341885 11.1428 -42.7531" rotation="-178.889 -5.63851 179.486" />
+    <Prop name="Cone" position="-1.98051 11.1549 -42.8256" rotation="-179.406 0.737829 174.356" />
+    <Prop name="Cone" position="0.635733 11.1333 -41.8553" rotation="-179.535 -8.75867 179.383" />
+    <Prop name="Cone" position="1.26464 11.1485 -42.8821" rotation="-179.347 -2.89648 179.378" />
+    <Prop name="Cone" position="-0.0478986 11.1905 -43.5873" rotation="67.322 -1.54035 -166.949" />
+    <Prop name="Cone" position="0.20552 11.4065 -42.3073" rotation="136.283 12.0688 -157.178" />
+    <Prop name="Cone" position="-0.7207 11.2283 -43.245" rotation="123.929 -19.294 -68.0687" />
+    <Prop name="Cone" position="-0.537433 11.201 -42.2637" rotation="-170.747 -24.816 -59.2655" />
+    <Prop name="Cone" position="0.119249 11.4315 -43.0626" rotation="150.857 -19.9985 -94.9881" />
+    <Prop name="Cone" position="1.05694 11.1883 -42.4517" rotation="-171.575 26.4821 -63.3501" />
+    <Prop name="Cone" position="-1.34431 11.4782 -43.2735" rotation="115.683 -2.9689 106.771" />
+    <Prop name="Simple Jump 1" position="1.28377 -2.19415 -8.77496" rotation="6.74675 0.491286 0.00394967" />
+    <Prop name="Cone" position="-1.98812 11.1799 -42.0708" rotation="-174.789 -8.40723 174.827" />
+    <Prop name="Cone" position="-0.134862 11.7164 -42.4876" rotation="45.7956 10.3269 -75.4802" />
+    <Prop name="Concrete Bump" position="-0.957054 -3.47872 -10.5794" rotation="0.00131461 0.441153 0.0248832" />
+    <Prop name="Concrete Bump" position="3.49581 -3.47755 -10.5949" rotation="0.0628559 0.445834 0.031715" />
+    <Prop name="Concrete Bump" position="-0.993163 -3.09451 -10.5392" rotation="0.323248 0.610959 0.31148" />
+    <Prop name="Concrete Bump" position="3.46698 -3.09996 -10.5525" rotation="0.0672261 0.51143 -0.117841" />
+    <Prop name="Cone" position="-0.364181 12.1111 -43.3365" rotation="-4.35043 -34.1297 2.32805" />
+    <Prop name="Quarter Pipe" position="-0.34512 -3.23505 -56.5367" rotation="86.8073 -89.9604 86.6838" />
+    <Prop name="Crate" position="-3.30358 3.3197 -54.5354" rotation="-90.046 -89.944 -90.1532" />
+    <Prop name="Crate" position="-0.118918 3.32036 -54.5546" rotation="79.5597 -89.944 79.4364" />
+    <Prop name="Crate" position="2.92574 3.3217 -54.5675" rotation="89.7211 -89.9604 89.6395" />
+    <Prop name="Crate" position="-1.74401 5.21356 -54.6997" rotation="22.5576 -89.9184 22.5738" />
+    <Prop name="Crate" position="1.44265 5.21396 -54.7027" rotation="113.73 -89.9604 113.587" />
+    <Prop name="Crate" position="-1.57624 7.10852 -54.6431" rotation="-55.1249 -89.8176 -55.1488" />
+    <Prop name="Crate" position="1.24324 7.10853 -54.7731" rotation="77.2285 -89.8533 77.1666" />
+    <Prop name="Crate" position="-0.153722 9.00084 -54.8032" rotation="-53.267 -89.9407 -53.2761" />
+    <Prop name="Crate" position="-0.155503 10.8939 -54.9404" rotation="-52.8904 -89.8953 -52.9455" />
+    <Prop name="2x4" position="-0.107748 11.9424 -54.2819" rotation="0.387554 0.452646 0.137817" />
+    <Prop name="2x4" position="-0.134946 11.9433 -54.697" rotation="-0.19693 0.4706 0.173455" />
+    <Prop name="2x4" position="-0.128744 11.9409 -55.1184" rotation="0.034154 0.409743 -0.0412368" />
+    <Prop name="2x4" position="-0.157614 11.9436 -55.5353" rotation="-0.701428 0.40324 0.0197975" />
+    <Prop name="Cone" position="0.370412 12.324 -55.4032" rotation="0.790978 0.546749 0.276106" />
+    <Prop name="Cone" position="-0.460407 12.3218 -55.4516" rotation="0.0610296 0.386371 0.138457" />
+    <Prop name="Cone" position="-1.2371 12.319 -55.4074" rotation="-0.178442 0.411477 0.0453417" />
+    <Prop name="Cone" position="-2.00765 12.3514 -55.3976" rotation="-0.00190086 0.386781 4.71878" />
+    <Prop name="Cone" position="1.25423 12.3221 -55.4987" rotation="-0.0817438 0.420409 0.195233" />
+    <Prop name="Cone" position="-0.369292 12.348 -54.6391" rotation="2.27199 0.103266 2.46691" />
+    <Prop name="Cone" position="0.464082 12.3218 -54.5912" rotation="-0.250914 0.471899 -0.00933594" />
+    <Prop name="Cone" position="-1.26105 12.3173 -54.5513" rotation="0.0560963 0.654571 0.0358532" />
+    <Prop name="Cone" position="-2.14024 12.3164 -54.5116" rotation="-0.507449 0.488268 0.309541" />
+    <Prop name="Cone" position="1.3577 12.3241 -54.6132" rotation="-0.123892 0.493837 0.416611" />
+    <Prop name="Cone" position="2.18696 12.3219 -55.5003" rotation="-0.885897 0.456702 0.111975" />
+    <Prop name="Cone" position="-2.91397 12.3182 -55.4018" rotation="-0.246305 0.46455 0.0896831" />
+    <Prop name="Cone" position="2.32167 12.327 -54.6535" rotation="-0.00580816 0.534301 -0.10647" />
+    <Prop name="Cone" position="-2.95577 12.313 -54.4964" rotation="-0.386775 0.476161 0.210253" />
+</Arena>

@@ -1,0 +1,323 @@
+<?xml ?>
+<!--Stunt Playground Arena file-->
+<Arena>
+    <Prop name="Big Box" position="3.72209 -1.14013 -67.6705" rotation="-179.425 -85.0393 -179.447" />
+    <Prop name="Crate" position="4.96257 7.32369 -87.9089" rotation="-148.056 89.8092 148.122" />
+    <Prop name="Simple Jump 1" position="3.71376 12.0884 -78.3747" rotation="-179.923 1.51251 179.809" />
+    <Prop name="Big Box" position="4.0865 3.86892 -89.1957" rotation="-12.1119 89.5817 12.1579" />
+    <Prop name="Crate" position="4.69786 12.3168 -68.0903" rotation="0.670211 89.1989 179.335" />
+    <Prop name="Simple Jump 1" position="3.64333 9.11753 -87.4607" rotation="-177.554 0.972182 -179.94" />
+    <Prop name="Crate" position="4.59505 12.3171 -66.0783" rotation="0.769571 84.0999 179.344" />
+    <Prop name="Crate" position="4.83624 12.323 -74.3395" rotation="-5.44225 89.2777 -174.63" />
+    <Prop name="Crate" position="2.64335 12.3219 -72.3253" rotation="6.66591 89.0641 173.277" />
+    <Prop name="Crate" position="2.5321 12.3237 -74.6558" rotation="7.92933 89.572 171.751" />
+    <Prop name="Big Box" position="5.41977 -1.13716 -88.1219" rotation="2.4183 89.8629 -2.41928" />
+    <Prop name="Plywood" position="3.87521 8.32725 -88.9825" rotation="63.5924 89.8573 -63.504" />
+    <Prop name="Big Box" position="4.33486 3.86595 -79.0265" rotation="169.456 -89.6495 169.393" />
+    <Prop name="Concrete Tube" position="-0.485865 -2.61065 -18.9228" rotation="179.936 4.18843 179.963" />
+    <Prop name="Quarter Pipe" position="-43.677 -3.24237 -18.2883" rotation="-0.00106949 -15.4665 -0.0135877" />
+    <Prop name="Quarter Pipe" position="-28.2516 -3.23872 69.2745" rotation="0.0393062 63.7333 -0.0335104" />
+    <Prop name="Concrete Tube" position="-3.63448 -2.61477 22.1056" rotation="-179.932 4.19094 -179.937" />
+    <Prop name="Crate" position="3.03386 7.31853 -87.8255" rotation="-170.827 89.4072 170.911" />
+    <Prop name="Cone" position="101.804 -3.48652 79.3277" rotation="-1.22654 -63.6644 -115.168" />
+    <Prop name="Simple Jump 1" position="3.70015 13.9843 -68.527" rotation="-179.885 1.90828 -179.883" />
+    <Prop name="Big Box" position="3.62333 8.8708 -69.5987" rotation="1.59355 88.6152 178.418" />
+    <Prop name="Crate" position="2.73844 12.3217 -70.2312" rotation="-178.492 87.9938 -1.39715" />
+    <Prop name="Concrete Tube" position="-5.37595 -2.63346 42.7259" rotation="179.965 4.191 -179.995" />
+    <Prop name="Quarter Pipe" position="-21.7557 -3.23877 -38.9441" rotation="179.875 -78.1337 179.838" />
+    <Prop name="Super Jump 1" position="3.39907 -3.13726 -109.94" rotation="-90.1259 -89.9161 -90.1026" />
+    <Prop name="Quarter Pipe" position="-18.6548 -3.23726 71.7953" rotation="-0.388724 85.3335 0.338429" />
+    <Prop name="Concrete Tube" position="2.34705 -2.61323 164.976" rotation="2.11644 89.3259 -2.06853" />
+    <Prop name="Plywood" position="-3.03233 8.70189 10.5757" rotation="-0.857865 -0.555942 -178.886" />
+    <Prop name="Quarter Pipe" position="-33.6937 -3.24069 -35.0787" rotation="-0.0250664 -37.0661 -0.0556373" />
+    <Prop name="Big Box" position="-9.05752 -1.15051 88.3458" rotation="0.209565 85.9085 -0.218212" />
+    <Prop name="Quarter Pipe" position="-46.6164 -3.24181 -0.0522039" rotation="0.00461351 -15.4688 -0.0376424" />
+    <Prop name="Crate" position="4.83825 12.3198 -72.3834" rotation="-2.00656 88.782 -177.97" />
+    <Prop name="Big Box" position="-14.664 -1.14827 88.0204" rotation="-179.897 -85.8711 -179.903" />
+    <Prop name="Quarter Pipe" position="24.3107 -3.24021 163.397" rotation="-179.991 47.4395 179.966" />
+    <Prop name="Quarter Pipe" position="-12.7689 -3.21317 -34.2514" rotation="179.36 -60.0645 179.447" />
+    <Prop name="Quarter Pipe" position="-40.4331 -3.23919 -26.7862" rotation="0.0281507 -14.8072 0.0385496" />
+    <Prop name="Quarter Pipe" position="-16.1579 -3.24968 168.904" rotation="0.0669039 34.6845 1.13575" />
+    <Prop name="Quarter Pipe" position="-8.9868 -3.23289 174.907" rotation="0.192471 37.2457 -0.0713753" />
+    <Prop name="Super Jump 1" position="2.00667 -3.14234 -46.2249" rotation="-0.0740184 85.8087 0.0583383" />
+    <Prop name="Tunnel Jump" position="-7.88413 -3.33602 70.5261" rotation="-179.928 -85.8099 179.965" />
+    <Prop name="Quarter Pipe" position="-46.0689 -3.23636 -9.27352" rotation="0.0395144 -15.9539 -0.0152755" />
+    <Prop name="Big Box" position="-15.5095 -1.14799 98.0321" rotation="-179.978 -85.9639 -179.996" />
+    <Prop name="Quarter Pipe" position="-19.5934 -3.12771 132.102" rotation="0.201535 -45.5546 -2.00028" />
+    <Prop name="Big Box" position="-3.66811 3.85185 88.7458" rotation="-179.543 -87.0085 -179.53" />
+    <Prop name="Plywood" position="-13.1621 11.4225 92.4935" rotation="-1.25094 85.5218 1.24366" />
+    <Prop name="Big Box" position="-3.58505 -1.15058 88.7508" rotation="-179.744 -86.1184 -179.746" />
+    <Prop name="Quarter Pipe" position="-62.7359 -3.16131 69.2028" rotation="178.722 -59.7704 177.474" />
+    <Prop name="Big Box" position="-4.07816 3.85395 98.7099" rotation="179.328 -87.0015 179.281" />
+    <Prop name="Big Box" position="26.9264 -1.13462 18.739" rotation="169.072 -89.8953 169.072" />
+    <Prop name="Crate" position="2.29591 12.3229 -65.9872" rotation="-2.93042 87.5285 -176.856" />
+    <Prop name="Concrete Tube" position="-13.6577 -2.62753 146.834" rotation="-0.00227696 -4.27394 0.0986469" />
+    <Prop name="Quarter Pipe" position="59.8516 -3.22567 170.028" rotation="-0.0701553 -66.7837 0.134455" />
+    <Prop name="Quarter Pipe" position="-4.8142 -3.18134 131.99" rotation="-179.06 -18.3 -179.836" />
+    <Prop name="Quarter Pipe" position="94.1628 -3.24006 29.7474" rotation="-0.161437 1.70975 -0.0733194" />
+    <Prop name="Quarter Pipe" position="67.0862 -3.2327 162.914" rotation="-0.0578895 -55.891 0.0307011" />
+    <Prop name="Quarter Pipe" position="-21.377 -3.23694 161.573" rotation="-0.0597276 35.3192 0.0138238" />
+    <Prop name="Quarter Pipe" position="0.418137 -3.24217 56.4447" rotation="-0.240172 89.3967 0.220893" />
+    <Prop name="Concrete Tube" position="19.542 -2.62694 147.206" rotation="-0.0203733 -0.6395 -0.100204" />
+    <Prop name="Concrete Tube" position="19.9751 -2.65783 126.665" rotation="-0.0545962 -0.59083 0.00685327" />
+    <Prop name="Quarter Pipe" position="30.9798 -3.23485 156.801" rotation="179.999 45.9728 179.989" />
+    <Prop name="Big Box" position="-10.3251 8.86536 97.63" rotation="-179.934 4.49828 -179.992" />
+    <Prop name="Cone" position="99.3921 -3.49338 107.453" rotation="-0.639085 -24.8183 -114.785" />
+    <Prop name="Concrete Tube" position="20.4216 -2.60645 106.156" rotation="-0.117968 0.098042 0.0673819" />
+    <Prop name="Quarter Pipe" position="-55.2583 -3.23248 100.824" rotation="-179.914 61.8484 179.921" />
+    <Prop name="Big Box" position="20.4012 -1.14259 10.3328" rotation="-0.0190903 -1.02615 -0.00439889" />
+    <Prop name="Indicator" position="102.607 -3.07827 -74.4652" rotation="179.226 48.9032 -179.074" />
+    <Prop name="Indicator" position="90.4266 -2.95789 -90.4632" rotation="179.143 48.8092 -179.02" />
+    <Prop name="Quarter Pipe" position="17.7834 -3.23733 169.935" rotation="179.938 47.5134 -179.943" />
+    <Prop name="Quarter Pipe" position="-37.173 -3.24002 124.455" rotation="-0.0458574 85.2468 0.0183343" />
+    <Prop name="Big Box" position="2.86235 3.86757 -69.0076" rotation="-177.95 -87.5034 -177.975" />
+    <Prop name="Quarter Pipe" position="79.3449 -3.08943 147.585" rotation="-2.53919 -37.7177 -1.32617" />
+    <Prop name="Quarter Pipe" position="93.4621 -3.2321 -14.7992" rotation="-0.0318151 1.71015 0.0142445" />
+    <Prop name="Indicator" position="84.5727 -2.95758 -79.5126" rotation="179.888 47.6113 -179.921" />
+    <Prop name="Quarter Pipe" position="-46.1938 -3.23914 119.224" rotation="-0.0375109 42.1471 -0.0177273" />
+    <Prop name="Quarter Pipe" position="4.92147 -3.23742 -164.098" rotation="0.161014 -70.2992 0.152262" />
+    <Prop name="Indicator" position="91.1932 -2.95788 -72.0396" rotation="-179.956 49.6887 179.931" />
+    <Prop name="Concrete Tube" position="32.0137 -2.78472 -140.306" rotation="-1.99655 44.9856 0.583276" />
+    <Prop name="Cone" position="104.39 -3.51719 75.2724" rotation="178.928 62.4614 -63.8813" />
+    <Prop name="Indicator" position="87.1746 -2.95757 -76.5534" rotation="-179.925 53.4686 179.941" />
+    <Prop name="Quarter Pipe" position="-27.6735 -3.17374 125.044" rotation="-179.358 83.0252 177.952" />
+    <Prop name="Quarter Pipe" position="-44.3867 -3.23924 109.367" rotation="0.047514 42.1454 -0.0428987" />
+    <Prop name="Concrete Tube" position="47.3618 -2.81272 -125.11" rotation="-0.932232 44.8363 0.826537" />
+    <Prop name="Indicator" position="92.7041 -2.97699 -87.6113" rotation="179.545 48.6547 -179.373" />
+    <Prop name="Indicator" position="97.9401 -3.02818 -80.042" rotation="179.18 48.6568 -178.998" />
+    <Prop name="Indicator" position="89.2593 -2.95707 -74.0474" rotation="179.568 53.5717 -179.673" />
+    <Prop name="Quarter Pipe" position="24.206 -3.23511 -158.563" rotation="179.985 -62.9094 179.971" />
+    <Prop name="Quarter Pipe" position="-87.0502 -3.13552 108.848" rotation="179.786 -22.115 177.423" />
+    <Prop name="Cone" position="100.529 -3.50195 108.538" rotation="-171.281 -84.101 -171.33" />
+    <Prop name="Indicator" position="81.9971 -2.95783 -82.4203" rotation="-179.984 46.3211 179.988" />
+    <Prop name="Indicator" position="93.2044 -2.96701 -69.2638" rotation="178.649 68.5864 -178.59" />
+    <Prop name="Quarter Pipe" position="-84.9634 -3.23537 119.974" rotation="179.941 -1.68255 -179.974" />
+    <Prop name="Indicator" position="99.3841 -3.0426 -77.9752" rotation="178.937 49.4242 -178.799" />
+    <Prop name="Indicator" position="94.0846 -2.99026 -85.2737" rotation="179.195 48.5781 -179.047" />
+    <Prop name="Quarter Pipe" position="-83.6659 -3.23153 129.925" rotation="179.898 -14.6279 179.871" />
+    <Prop name="Indicator" position="100.977 -3.05933 -76.1818" rotation="178.913 48.0597 -178.791" />
+    <Prop name="Concrete Tube" position="62.1987 -2.83054 -110.723" rotation="-2.31009 44.93 0.541719" />
+    <Prop name="Concrete Tube" position="6.17164 -2.6155 -139.204" rotation="179.921 9.0933 179.964" />
+    <Prop name="Cone" position="102.377 -3.49184 78.5393" rotation="78.7527 -22.5578 -118.401" />
+    <Prop name="Indicator" position="96.1663 -3.012 -82.4877" rotation="179.177 48.4474 -178.877" />
+    <Prop name="Big Box" position="1.29299 5.21064 10.1213" rotation="90.6827 -23.0045 -86.7792" />
+    <Prop name="Quarter Pipe" position="-1.64338 -3.24321 -155.867" rotation="-0.000742941 -6.04555 0.0283026" />
+    <Prop name="Quarter Pipe" position="51.3204 -3.23792 174.356" rotation="0.0180732 -69.8809 -0.0353363" />
+    <Prop name="Quarter Pipe" position="-80.5096 -3.23209 140.765" rotation="179.802 -23.3433 -179.97" />
+    <Prop name="Concrete Tube" position="77.025 -2.61515 -96.4454" rotation="0.0914663 44.9213 -0.110926" />
+    <Prop name="Quarter Pipe" position="-103.214 -3.32985 13.2183" rotation="160.065 -88.0826 160.049" />
+    <Prop name="Quarter Pipe" position="-38.6289 -3.23457 183.372" rotation="-179.96 -70.1093 -179.977" />
+    <Prop name="Quarter Pipe" position="15.5944 -3.18748 -163.046" rotation="179.246 -62.9092 -179.8" />
+    <Prop name="Big Box" position="-7.32851 5.1321 10.7966" rotation="88.5378 21.4186 -87.4403" />
+    <Prop name="Quarter Pipe" position="86.7251 -3.15524 130.204" rotation="-1.4509 -25.7771 -0.689826" />
+    <Prop name="Quarter Pipe" position="17.9725 -3.22377 -137.014" rotation="-179.795 88.6774 179.448" />
+    <Prop name="Quarter Pipe" position="83.2777 -3.20458 139.107" rotation="-0.473625 -34.9418 -0.0142171" />
+    <Prop name="Quarter Pipe" position="-75.8243 -3.23866 149.583" rotation="179.976 -35.7719 -179.979" />
+    <Prop name="Quarter Pipe" position="-1.87366 -3.21836 191.009" rotation="-176.088 -87.241 -176.096" />
+    <Prop name="Big Box" position="9.74852 3.86989 4.68605" rotation="179.994 -1.14868 179.996" />
+    <Prop name="Quarter Pipe" position="94.2895 -3.24942 -3.26941" rotation="-0.314196 1.71114 -0.0442946" />
+    <Prop name="Quarter Pipe" position="-69.1619 -3.23769 156.305" rotation="179.824 -41.6413 -179.908" />
+    <Prop name="Quarter Pipe" position="93.047 -3.24604 50.361" rotation="-0.39993 1.70881 -0.171469" />
+    <Prop name="Quarter Pipe" position="88.0896 -3.23776 120.03" rotation="-0.122879 -12.6921 -0.196204" />
+    <Prop name="Big Box" position="19.7436 3.85955 10.5314" rotation="179.984 -1.00122 -179.988" />
+    <Prop name="Big Box" position="9.19665 3.86627 16.4782" rotation="179.996 2.1759 -179.959" />
+    <Prop name="Big Box" position="-9.67759 8.86433 87.4762" rotation="-179.993 4.45738 -179.98" />
+    <Prop name="Big Box" position="26.7765 8.88397 18.8876" rotation="-0.492499 86.0634 0.48642" />
+    <Prop name="Quarter Pipe" position="-14.4456 -3.24115 55.2711" rotation="-0.188601 87.9222 0.221925" />
+    <Prop name="Big Box" position="10.2427 -1.14136 10.1842" rotation="-0.008484 -2.83234 0.00518411" />
+    <Prop name="Quarter Pipe" position="92.4471 -3.23239 70.2784" rotation="-0.0377575 1.71029 0.0964876" />
+    <Prop name="Big Box" position="10.2407 -1.13771 4.59305" rotation="-0.022417 -1.47906 -0.00489521" />
+    <Prop name="Big Box" position="27.7326 3.866 8.11796" rotation="1.88909 87.6996 -1.85813" />
+    <Prop name="Big Box" position="26.982 3.87485 18.5705" rotation="-0.378173 86.4602 0.3743" />
+    <Prop name="Big Box" position="9.61899 3.86655 10.3925" rotation="179.993 1.43951 179.981" />
+    <Prop name="Quarter Pipe" position="35.1982 -3.21896 11.1868" rotation="179.828 -21.438 179.816" />
+    <Prop name="Crate" position="2.59549 12.3195 -68.1162" rotation="-177.891 88.8987 -2.11311" />
+    <Prop name="Big Box" position="20.274 -1.13773 4.79886" rotation="0.00199244 -1.01016 0.00222853" />
+    <Prop name="Quarter Pipe" position="42.408 -3.24182 31.3431" rotation="179.999 1.75238 179.96" />
+    <Prop name="Big Box" position="19.9077 8.87196 0.177798" rotation="-0.102731 -0.236468 -0.00493365" />
+    <Prop name="Big Box" position="27.7871 8.87253 8.0836" rotation="0.244118 89.2569 -0.234446" />
+    <Prop name="Big Box" position="9.51042 8.87024 15.9867" rotation="179.92 0.049734 -179.97" />
+    <Prop name="Big Box" position="9.07939 -1.13661 16.4236" rotation="179.997 1.58625 -179.988" />
+    <Prop name="Big Box" position="19.9435 3.86744 4.89253" rotation="-179.994 0.274524 -179.971" />
+    <Prop name="Big Box" position="-12.8727 1.38848 9.3793" rotation="179.987 2.09749 -91.1676" />
+    <Prop name="Big Box" position="28.1938 -1.13938 8.65167" rotation="0.772358 -89.3318 0.748379" />
+    <Prop name="Big Box" position="9.93104 9.10284 5.04738" rotation="89.9659 0.00894765 179.344" />
+    <Prop name="Big Box" position="20.0443 8.87288 5.71168" rotation="179.984 -0.371875 -179.995" />
+    <Prop name="Quarter Pipe" position="32.9085 -3.24126 67.6263" rotation="179.967 36.5119 -179.928" />
+    <Prop name="Quarter Pipe" position="38.9722 -3.23828 20.816" rotation="-179.969 -41.4479 -179.999" />
+    <Prop name="Quarter Pipe" position="10.9154 -3.23849 31.7014" rotation="-0.148076 77.4459 0.111573" />
+    <Prop name="Quarter Pipe" position="8.63607 -3.24695 63.9858" rotation="-0.268236 66.9334 0.113656" />
+    <Prop name="Quarter Pipe" position="6.82387 -3.23566 39.6805" rotation="0.0781515 78.1632 -0.0772121" />
+    <Prop name="Crate" position="-2.35027 13.5637 7.90266" rotation="147.523 -88.4374 -31.0749" />
+    <Prop name="Concrete Tube" position="20.6186 -2.67825 85.5612" rotation="-0.032177 -0.296511 0.0167879" />
+    <Prop name="Crate" position="17.276 4.89446 14.8607" rotation="-179.944 2.80093 -179.88" />
+    <Prop name="Super Jump 1" position="21.2034 -3.13062 40.3601" rotation="-0.636854 89.6993 0.563627" />
+    <Prop name="Quarter Pipe" position="42.0547 -3.24328 49.5516" rotation="-179.987 1.75232 -179.991" />
+    <Prop name="Plywood" position="-1.96636 5.83251 7.35218" rotation="0.0701064 -2.80206 -127.809" />
+    <Prop name="Crate" position="17.1833 -2.68983 14.7971" rotation="179.775 5.72525 -179.992" />
+    <Prop name="Crate" position="17.3372 1.10201 14.9492" rotation="179.971 4.26549 179.844" />
+    <Prop name="Crate" position="17.1574 -0.794686 14.7079" rotation="179.966 6.70119 179.962" />
+    <Prop name="Quarter Pipe" position="42.3367 -3.23535 40.3652" rotation="179.983 1.74755 179.983" />
+    <Prop name="Big Box" position="-15.8278 3.8554 97.8575" rotation="-179.455 -85.6531 -179.53" />
+    <Prop name="Concrete Tube" position="20.9643 -2.61775 65.0235" rotation="-0.0330035 -0.329583 -0.0514316" />
+    <Prop name="Crate" position="-2.24765 15.4623 7.92172" rotation="166.619 -85.8625 -11.9406" />
+    <Prop name="Quarter Pipe" position="38.0589 -3.23798 59.6344" rotation="179.962 37.7489 -179.952" />
+    <Prop name="Crate" position="16.8775 2.99729 14.8801" rotation="179.847 16.4709 179.941" />
+    <Prop name="Big Box" position="21.1767 -1.13789 18.1555" rotation="-177.879 -89.4294 -177.787" />
+    <Prop name="Tunnel Jump" position="-10.9681 -3.35185 116.238" rotation="-0.574886 86.6379 0.618022" />
+    <Prop name="Big Box" position="-12.8164 1.34582 3.75857" rotation="179.997 5.06634 -90.0008" />
+    <Prop name="Plywood" position="-20.0726 2.80463 9.08735" rotation="-1.92281 -8.01788 -153.481" />
+    <Prop name="Big Box" position="21.1324 3.86513 18.2969" rotation="163.332 89.7295 -163.45" />
+    <Prop name="Big Box" position="-15.2469 3.85414 87.8974" rotation="-179.471 -85.5625 -179.513" />
+    <Prop name="Crate" position="-2.40015 15.5366 11.7337" rotation="165.372 -85.7294 -13.7288" />
+    <Prop name="Plywood" position="-10.0372 11.4256 92.5719" rotation="0.440968 85.512 -0.50461" />
+    <Prop name="Big Box" position="-4.33292 -1.14948 98.7106" rotation="-179.85 -86.6666 -179.861" />
+    <Prop name="Crate" position="-2.26209 11.6711 7.92689" rotation="83.6267 -89.1984 -95.059" />
+    <Prop name="Simple Jump 1" position="-9.80675 2.06608 99.6393" rotation="179.998 3.01796 179.885" />
+    <Prop name="Plywood" position="-17.1054 -0.661202 8.98853" rotation="-0.00542887 -15.9786 -66.6698" />
+    <Prop name="Quarter Pipe" position="-43.7799 -3.23989 34.4149" rotation="-0.0441414 9.73346 -0.0444113" />
+    <Prop name="Big Box" position="-13.1413 1.34073 14.886" rotation="-179.996 2.13503 -90.0312" />
+    <Prop name="Tunnel Jump" position="-31.619 -3.35643 8.61079" rotation="-0.0585603 -0.174091 0.00650674" />
+    <Prop name="Quarter Pipe" position="-45.8397 -3.23944 25.6028" rotation="0.0409512 9.70284 0.0188828" />
+    <Prop name="Quarter Pipe" position="89.3021 -3.23724 110.621" rotation="-0.0401205 -12.6933 -0.165911" />
+    <Prop name="Quarter Pipe" position="-39.8867 -3.23976 52.6807" rotation="-0.0365469 9.73348 -0.0423857" />
+    <Prop name="Simple Jump 1" position="3.43235 8.51764 10.3374" rotation="83.4795 76.3492 -83.409" />
+    <Prop name="Quarter Pipe" position="-80.7866 -3.23567 102.061" rotation="0.0718237 55.7893 -0.0406002" />
+    <Prop name="Quarter Pipe" position="-46.8083 -3.2409 16.4495" rotation="0.0110344 9.73349 -0.00953231" />
+    <Prop name="Quarter Pipe" position="-54.2838 -3.22287 73.3526" rotation="179.423 -67.2186 179.501" />
+    <Prop name="Crate" position="-2.50587 13.5985 9.80722" rotation="145.841 -88.4296 -32.8655" />
+    <Prop name="Quarter Pipe" position="-41.8754 -3.23352 43.2853" rotation="-0.080463 9.73158 0.0290632" />
+    <Prop name="Quarter Pipe" position="-70.754 -3.14491 63.9239" rotation="179.696 -52.9437 179.458" />
+    <Prop name="Crate" position="-2.30705 15.4968 9.82547" rotation="169.629 -85.8312 -9.07872" />
+    <Prop name="Concrete Tube" position="-63.6155 -2.64195 8.79958" rotation="179.854 78.7788 -179.962" />
+    <Prop name="Concrete Tube" position="-82.6312 -2.62267 23.8884" rotation="179.907 28.2199 -179.78" />
+    <Prop name="Concrete Tube" position="-83.9719 -2.62975 51.8871" rotation="179.961 -9.73567 -179.943" />
+    <Prop name="Quarter Pipe" position="-81.4778 -3.23803 5.14109" rotation="0.0790892 -51.4601 0.0327854" />
+    <Prop name="Quarter Pipe" position="24.2379 -3.23963 -30.7176" rotation="179.982 39.8524 179.965" />
+    <Prop name="Super Jump 1" position="-37.5137 -3.13344 87.3699" rotation="0.0345397 -3.05762 -0.0141882" />
+    <Prop name="Quarter Pipe" position="-2.59284 -3.0735 -125.257" rotation="-1.9124 31.2736 0.0541648" />
+    <Prop name="Quarter Pipe" position="38.934 -3.23793 -77.1762" rotation="179.96 28.5643 179.979" />
+    <Prop name="Quarter Pipe" position="29.4491 -3.24027 -49.2584" rotation="179.986 3.36117 179.992" />
+    <Prop name="Quarter Pipe" position="-18.3643 -3.23832 -118.287" rotation="-0.000470878 -28.5644 -0.00569714" />
+    <Prop name="Quarter Pipe" position="29.8137 -3.24232 -58.279" rotation="179.985 3.36299 -180" />
+    <Prop name="Quarter Pipe" position="28.0281 -3.24051 -40.2995" rotation="-179.958 3.25852 179.987" />
+    <Prop name="Quarter Pipe" position="13.584 -3.23796 -25.7744" rotation="-179.627 86.1615 179.655" />
+    <Prop name="Quarter Pipe" position="-29.385 -3.24013 -69.0299" rotation="-0.0230799 18.235 0.0102444" />
+    <Prop name="Quarter Pipe" position="34.5944 -3.17234 182.832" rotation="-3.14084 -73.3162 -2.66372" />
+    <Prop name="Quarter Pipe" position="42.9981 -3.18097 -85.242" rotation="178.865 28.6704 179.999" />
+    <Prop name="Quarter Pipe" position="11.6214 -3.04267 -122.8" rotation="177.142 29.6747 -178.544" />
+    <Prop name="Quarter Pipe" position="-24.1795 -3.23954 -110.205" rotation="-0.014556 -28.5746 -0.00134767" />
+    <Prop name="Quarter Pipe" position="-27.0266 -3.18612 -48.0261" rotation="-0.787973 18.9359 0.32221" />
+    <Prop name="Quarter Pipe" position="52.5205 -3.23006 -102.398" rotation="179.903 29.7685 179.977" />
+    <Prop name="Quarter Pipe" position="-27.2961 -3.24145 -58.5046" rotation="0.0857931 18.235 -0.0448713" />
+    <Prop name="Quarter Pipe" position="-29.7222 -3.2354 -80.0233" rotation="-0.0131971 18.2352 0.00333959" />
+    <Prop name="Quarter Pipe" position="-29.884 -3.24138 -90.1159" rotation="-0.0142313 18.2351 0.00399129" />
+    <Prop name="Quarter Pipe" position="34.7271 -3.24033 -67.457" rotation="-179.99 30.4499 -179.95" />
+    <Prop name="Quarter Pipe" position="-8.0432 -3.16382 -130.387" rotation="0.304091 -57.9549 1.16312" />
+    <Prop name="Quarter Pipe" position="-28.7887 -3.23803 -101.419" rotation="-0.00332462 -14.1845 -0.000244195" />
+    <Prop name="Quarter Pipe" position="49.0119 -3.23952 -93.8492" rotation="179.964 28.5648 179.963" />
+    <Prop name="Crate" position="-2.19801 9.81324 9.96366" rotation="105.719 -88.9942 -73.0746" />
+    <Prop name="Quarter Pipe" position="93.5045 -3.23658 40.0874" rotation="-0.331377 1.71159 0.243325" />
+    <Prop name="Quarter Pipe" position="-93.485 -3.22483 16.2965" rotation="179.609 -48.5351 179.499" />
+    <Prop name="Quarter Pipe" position="-97.7182 -3.25574 27.3838" rotation="179.184 -60.4804 178.8" />
+    <Prop name="Quarter Pipe" position="16.7382 -3.22842 188.773" rotation="0.180072 -84.6321 0.382928" />
+    <Prop name="Quarter Pipe" position="94.0497 -3.20202 18.0924" rotation="-0.782798 1.69863 0.166916" />
+    <Prop name="Quarter Pipe" position="92.9981 -3.23416 -47.3533" rotation="-0.0855638 1.70896 0.0643073" />
+    <Prop name="Quarter Pipe" position="94.4518 -3.24726 7.20618" rotation="-0.38796 1.71284 0.0548777" />
+    <Prop name="Quarter Pipe" position="92.1223 -3.24642 60.0434" rotation="-0.275698 1.70936 -0.114531" />
+    <Prop name="Quarter Pipe" position="93.454 -3.24179 -26.8069" rotation="-0.23772 1.70945 0.124628" />
+    <Prop name="Quarter Pipe" position="70.4074 -3.24209 107.857" rotation="1.25277 87.9796 -1.34206" />
+    <Prop name="Quarter Pipe" position="93.8092 -3.23836 -37.6284" rotation="-0.348289 1.71435 -0.613473" />
+    <Prop name="Quarter Pipe" position="-56.0699 -3.23518 171.246" rotation="179.906 -48.5096 179.87" />
+    <Prop name="Quarter Pipe" position="-36.3725 -3.24268 62.1156" rotation="0.0187988 27.7479 -0.016641" />
+    <Prop name="Plywood" position="-3.02905 8.73018 13.4" rotation="-0.589031 -0.640567 -178.83" />
+    <Prop name="Quarter Pipe" position="91.9471 -3.23447 -57.7898" rotation="-0.0266397 1.71092 0.0967155" />
+    <Prop name="Quarter Pipe" position="79.4549 -3.23071 108.421" rotation="-0.129491 86.8666 -0.0237228" />
+    <Prop name="Quarter Pipe" position="88.2293 -3.23163 -67.1692" rotation="-0.2601 12.511 0.0500893" />
+    <Prop name="Quarter Pipe" position="33.1479 -3.22456 107.378" rotation="-0.979789 88.098 0.400568" />
+    <Prop name="Quarter Pipe" position="61.3853 -3.23043 107.197" rotation="-0.117135 88.1231 -0.0107375" />
+    <Prop name="Quarter Pipe" position="42.4141 -3.24568 107.442" rotation="6.35558 88.1039 -6.56046" />
+    <Prop name="Crate" position="-2.48074 13.6392 11.7581" rotation="164.818 -85.9384 -14.4075" />
+    <Prop name="Crate" position="-2.15487 9.85307 11.8942" rotation="146.392 -88.3448 -32.5933" />
+    <Prop name="Plywood" position="-5.58134 8.77259 10.4103" rotation="62.0526 -88.9987 -117.581" />
+    <Prop name="Quarter Pipe" position="-47.8445 -3.23357 177.914" rotation="-179.947 -48.5121 179.991" />
+    <Prop name="Quarter Pipe" position="-29.7148 -3.23173 186.517" rotation="179.852 -70.1086 179.995" />
+    <Prop name="Quarter Pipe" position="-11.4214 -3.23209 191.041" rotation="179.561 -79.8473 179.614" />
+    <Prop name="Crate" position="-2.24678 9.77566 8.02855" rotation="123.512 -88.9928 -55.2247" />
+    <Prop name="Quarter Pipe" position="43.1964 -3.20235 178.503" rotation="-0.295651 -70.3241 0.450384" />
+    <Prop name="Quarter Pipe" position="82.4912 -3.24079 70.0835" rotation="4.64092 -88.4974 4.61366" />
+    <Prop name="Cone" position="101.377 -3.50687 104.377" rotation="-174.614 -81.8956 -174.807" />
+    <Prop name="Quarter Pipe" position="-20.792 -3.23304 188.744" rotation="179.954 -71.9303 179.946" />
+    <Prop name="Quarter Pipe" position="-62.5012 -3.23585 164.447" rotation="179.762 -48.5089 179.841" />
+    <Prop name="Quarter Pipe" position="51.7914 -3.22968 107.428" rotation="0.21597 88.1077 -0.390597" />
+    <Prop name="Cone" position="102.644 -3.47357 61.2277" rotation="179.963 2.12614 -178.959" />
+    <Prop name="Cone" position="100.572 -3.51147 109.679" rotation="-0.112388 -23.2035 -114.933" />
+    <Prop name="Plywood" position="-2.75645 8.81271 10.3582" rotation="78.109 -89.0708 -100.751" />
+    <Prop name="Crate" position="-2.09979 11.7496 11.8248" rotation="56.771 -88.982 -122.431" />
+    <Prop name="Quarter Pipe" position="73.4638 -3.23608 70.2842" rotation="-0.265516 -88.2849 0.200741" />
+    <Prop name="Quarter Pipe" position="-11.9107 -3.24065 -57.2305" rotation="0.0103284 -50.4405 0.0129861" />
+    <Prop name="Quarter Pipe" position="63.923 -3.23772 70.218" rotation="-0.449448 -88.283 0.0868534" />
+    <Prop name="Quarter Pipe" position="45.3956 -3.26301 69.0855" rotation="4.68729 -87.5105 4.8743" />
+    <Prop name="Quarter Pipe" position="35.0066 -3.20207 78.1111" rotation="-0.848856 -88.2878 -1.62415" />
+    <Prop name="Cone" position="94.1776 -3.43235 112.404" rotation="-179.76 -6.95097 -179.259" />
+    <Prop name="Quarter Pipe" position="73.6151 -3.23492 154.947" rotation="-0.153809 -45.0781 0.108241" />
+    <Prop name="Quarter Pipe" position="7.31849 -3.23331 190.219" rotation="179.731 -89.2217 179.899" />
+    <Prop name="Cone" position="86.6831 -6.93936 -222.506" rotation="-179.973 56.7102 -64.7735" />
+    <Prop name="Quarter Pipe" position="-5.16035 -3.23694 -63.2345" rotation="0.0422103 -50.4149 0.037322" />
+    <Prop name="Big Box" position="33.2217 5.12851 11.4481" rotation="89.8976 0.168132 91.6482" />
+    <Prop name="Quarter Pipe" position="11.4188 -3.24014 -63.1324" rotation="-179.974 -64.7969 179.975" />
+    <Prop name="Quarter Pipe" position="54.5956 -3.23962 69.253" rotation="-0.566689 -88.2842 0.0513879" />
+    <Prop name="Quarter Pipe" position="18.5013 -3.23416 -45.1684" rotation="179.969 -7.81961 179.997" />
+    <Prop name="Big Box" position="20.3125 13.8819 5.22891" rotation="-179.964 -2.3232 179.995" />
+    <Prop name="Quarter Pipe" position="-19.1771 -3.06909 -51.8587" rotation="1.49229 -50.5656 0.216846" />
+    <Prop name="Big Box" position="20.6159 19.3343 -0.617981" rotation="-0.201333 -1.22764 -0.0154016" />
+    <Prop name="Big Box" position="20.3024 23.893 5.24212" rotation="179.999 -2.23379 179.986" />
+    <Prop name="Big Box" position="9.72523 0.0538135 -2.15358" rotation="-22.0007 -5.43321 -177.781" />
+    <Prop name="Big Box" position="20.0717 -1.13709 -0.886053" rotation="-0.0114695 -0.212978 -0.00287421" />
+    <Prop name="Cone" position="80.1512 10.1691 -246.246" rotation="-158.406 -9.33768 -157.674" />
+    <Prop name="Quarter Pipe" position="17.3361 -3.23556 -54.5085" rotation="179.99 -2.74631 -179.978" />
+    <Prop name="Quarter Pipe" position="92.6637 -3.24278 79.3514" rotation="0.0741452 0.9517 -0.63088" />
+    <Prop name="Big Box" position="33.2381 10.5926 11.975" rotation="89.9205 0.160192 89.9219" />
+    <Prop name="Big Box" position="20.3849 18.8863 5.25031" rotation="-179.986 -2.08261 179.97" />
+    <Prop name="Big Box" position="26.1598 -1.13448 -20.8578" rotation="0.0022831 -5.7627 -179.999" />
+    <Prop name="Plywood" position="-6.85361 11.4215 93.0126" rotation="-0.394098 85.5366 0.319957" />
+    <Prop name="Big Box" position="19.5615 3.86583 -1.12573" rotation="-0.0198195 -4.21677 0.0233473" />
+    <Prop name="Big Box" position="-14.3246 -1.1362 -126.702" rotation="-0.178224 -58.2725 -0.117696" />
+    <Prop name="Tunnel Jump" position="81.7939 -3.3479 90.0349" rotation="-0.00457473 -0.405248 0.0177562" />
+    <Prop name="Big Box" position="19.9262 14.1028 -0.416136" rotation="-90.1141 0.0161785 -1.34786" />
+    <Prop name="Quarter Pipe" position="-75.6834 -3.24252 39.2717" rotation="-179.999 -3.60499 -179.993" />
+    <Prop name="Cone" position="102.262 -3.5556 81.9238" rotation="178.189 72.6384 -177.613" />
+    <Prop name="Big Box" position="33.5885 1.34549 26.3173" rotation="179.997 -83.2868 89.9897" />
+    <Prop name="Quarter Pipe" position="90.9284 -3.24221 101.109" rotation="0.166867 -4.51679 -0.637675" />
+    <Prop name="Big Box" position="-19.4467 1.34579 -132.419" rotation="-0.0119384 -59.7609 -90.0003" />
+    <Prop name="Crate" position="-2.40956 11.7038 9.89794" rotation="129.705 -88.8266 -49.0002" />
+    <Prop name="Big Box" position="99.4137 11.2776 90.0683" rotation="90.7157 -29.0426 -172.388" />
+    <Prop name="Quarter Pipe" position="25.6638 -3.19352 186.317" rotation="-3.78788 -81.8727 -3.78275" />
+    <Prop name="Cone" position="101.892 -3.50894 98.8991" rotation="-4.79661 -82.2805 -4.80917" />
+    <Prop name="Quarter Pipe" position="-91.857 -3.23015 68.0029" rotation="0.200306 -15.4554 0.593719" />
+    <Prop name="Quarter Pipe" position="-72.0132 -3.23932 105.636" rotation="-0.0242834 67.3403 -0.0216414" />
+    <Prop name="Cone" position="101.297 -3.49986 101.59" rotation="-179.885 -2.67687 -179.32" />
+    <Prop name="Cone" position="104.873 -3.49939 53.9238" rotation="-81.6326 -22.5876 110.178" />
+    <Prop name="Ring" position="9.34636 -2.74988 92.2307" rotation="15.0766 88.8073 -15.0765" />
+    <Prop name="Cone" position="101.539 -3.46425 65.3956" rotation="0.0729692 11.8588 -0.648634" />
+    <Prop name="Big Box" position="3.95914 8.87133 -79.5655" rotation="175.724 -88.6436 175.637" />
+    <Prop name="Quarter Pipe" position="-93.667 -3.23177 36.4245" rotation="-0.051067 1.73266 0.549677" />
+    <Prop name="Indicator" position="104.071 -3.09178 -72.4499" rotation="179.141 49.0357 -178.951" />
+    <Prop name="Big Box" position="-9.7976 -1.15128 98.333" rotation="179.813 -86.8349 179.809" />
+    <Prop name="Crate" position="4.91275 7.32403 -90.0476" rotation="-15.4318 89.5927 15.4813" />
+    <Prop name="Quarter Pipe" position="-89.3946 -3.24107 96.1231" rotation="-0.0965342 55.5948 0.124989" />
+    <Prop name="Crate" position="2.87408 7.31769 -85.6873" rotation="-19.803 89.6923 19.873" />
+    <Prop name="Crate" position="2.99329 7.3192 -89.908" rotation="-26.0244 89.6631 26.1235" />
+    <Prop name="Plywood" position="-3.2233 8.55068 7.72441" rotation="-0.539675 -0.11676 178.576" />
+    <Prop name="Crate" position="5.00906 7.32353 -92.0889" rotation="-10.8585 89.1246 10.9607" />
+    <Prop name="Quarter Pipe" position="-93.8989 -3.26423 87.1647" rotation="-0.0521767 11.7585 0.405674" />
+    <Prop name="Crate" position="5.1108 7.32165 -85.6832" rotation="-2.99768 88.4879 3.0441" />
+    <Prop name="Concrete Tube" position="-2.37662 -2.63573 1.58332" rotation="-179.92 4.16402 -179.969" />
+    <Prop name="Quarter Pipe" position="-62.2924 -3.23873 106.941" rotation="179.964 60.3881 -179.993" />
+    <Prop name="Quarter Pipe" position="-93.9563 -3.24855 77.2199" rotation="0.19179 -4.81048 0.360839" />
+    <Prop name="Crate" position="4.74688 12.3186 -70.2693" rotation="31.3042 89.7676 148.658" />
+    <Prop name="Crate" position="3.0527 7.32145 -91.9892" rotation="-6.87083 89.4132 6.88763" />
+    <Prop name="Big Box" position="4.29021 -1.13609 -78.1491" rotation="6.79145 -89.8688 6.76625" />
+    <Prop name="Indicator" position="94.125 -2.97329 -66.8836" rotation="177.562 75.802 -177.531" />
+    <Prop name="Indicator" position="94.6574 -2.97749 -64.275" rotation="174.818 82.9867 -174.821" />
+</Arena>
